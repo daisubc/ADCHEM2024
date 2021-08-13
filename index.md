@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "AdCONIP - August 2022 (UBC Vancouver, Canada)"
-subtitle: "The 8th International Symposium on Advanced Control of Industrial Processes"
+title: "AdCONIP 2022"
+subtitle: "The 8th International Symposium on Advanced Control of Industrial Processes. UBC Vancouver - August 2022"
 show-avatar: False
 ---
 
