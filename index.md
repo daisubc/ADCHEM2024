@@ -1,134 +1,63 @@
 ---
 layout: page
-title: "Process Data Analytics: Leveraging The Data Revolution"
-subtitle: "21st IFAC World Congress, Germany, July 11-17, 2020"
+title: "AdCONIP - August 2022 (UBC Vancouver, Canada)"
+subtitle: "The 8th International Symposium on Advanced Control of Industrial Processes"
 show-avatar: False
 ---
 
 ![header.png](./assets/img/header2.png)
 
-# Process Data Analytics Workshop
-- For full conference schedule, see [IFAC Website](https://www.ifac2020.org/program.html)
-- **Workshop date:** Saturday, July 11th 2020
-- **Registration date:** June 8th - July 5th 2020
+# Overview
+The International Symposium on Advanced Control of Industrial Processes (AdCONIP) is a triennial international conference. AdCONIP 2022 is the eigth symposium following previous events at Kumamoto (2002), Seoul (2005), Jasper (2008), Hangzhou (2011), Hiroshima (2014), Taipei (2017), Singapore (2020).
+
+This symposium aims at bringing together researchers and practitioners from academia and industry to discuss the state of the art developments/techniques in advanced control and its applications in industrial processes. The emphasis of this symposium will be on the theory and practice of advanced industrial control methods.
+
+Main topics for the symposium include, but are not limited to, the following:
+
+- Process Control & Automation
+- Adaptive & Learning Systems
+- Safe Process Operating Systems
+- Data Mining & Data Analytics
+- Signal Processing	Robotics & Mechatronics
+- Integration of Process Design & Control	Process Integration & Optimization
+- Identification & Estimation
+- Computer Integrated Manufacturing
+- Health Informatics & Bioinformatics
+- Air Pollution Modeling & Control
+- Controller Performance Evaluation
+- Precision Agriculture
+- Factory Automation
+- Fault Detection & Diagnosis
+- Intelligent Control
+- Data Reconciliation
+- System Behaviours	Data-Driven Control
+- Control of Cyber-Physical Systems
+- Control of the Water-Food-Energy Nexus
+- Control in Medicine & Health Monitoring
+- Water Conservation & Quality issues
+
 
 <div class="text-center">
   <a class="btn btn-block btn-primary btn-lg" target="_blank" href="https://www.ifac2020.org/registration/" role="button">Register Now</a>
 </div>
 
 # Organizers
-## Main Organizers
+## Contact
+Inquiries about the symposium may be addressed to
 - Bhushan Gopaluni, University of British Columbia, Canada *(bhushan.gopaluni@ubc.ca)*
-- Sirish L. Shah, University of Alberta, Canada *(sirish.shah@ualberta.ca)*
 
-## Co-organizers
-- Biao Huang, University of Alberta, Canada *(bhuang@ualberta.ca)*
-- Alf Isaksson, ABB Future Labs, Sweden *(alf.isaksson@se.abb.com)*
-- Manbu Kano, Kyoto University, Japan *(manabu@human.sys.i.kyoto-u.ac.jp)*
-- Arun Tangirala, IIT-Madras, India *(arunkt@iitm.ac.in)*
-- Nina Thornhill, Imperial College, UK *(n.thornhill@imperial.ac.uk)*
+# Call for Papers
 
-# Overview
+The International Program Committee (IPC) invites authors to submit 6-page papers (or 2 page extended abstracts for authors from industry) in English to the conference. The submission site and detailed instructions will be available through the conference website soon.
 
-We are currently at the cusp of the fourth industrial revolution (4IR) or Industry 4.0 that is poised to reshape all the sectors of economy and society with an unprecedented depth and breadth. Process industries are in a unique position to benefit from Industry 4.0, as they have the right infrastructure, and are in possession of massive amounts of heterogeneous industrial data. Industry 4.0 is poised to provide economic and competitive advantages in the face of ever-increasing demands on energy, environment and quality by providing a level of automation and efficiency never seen before. The process industries have been using data analytics in various forms for more than three decades. In particular, statistical techniques, such as principal components analysis (PCA), partial least squares (PLS), canonical variate analysis (CVA); and time-series methods for modelling, such as maximum-likelihood and prediction-error methods have been successfully applied on industrial data. Recent developments in artificial intelligence, machine learning and advanced analytics provide new openings for leveraging industrial data for solving complex systems engineering problems.
+We are particularly interested in works that address the grand challenges facing humanity in areas of health, food and water security, pollution, climate change adaptation and cyber-physical systems even though they may be of exploratory nature.
 
-The emphasis in this tutorial workshop will be on tools and techniques that help in the process of understanding data and discovering information that will lead to predictive monitoring and diagnosis of process faults, design of soft-sensors, process performance monitoring and on-line modeling methods.
+Proposals and papers for invited sessions are especially welcome. They should contain the title of the session, a list of at least 5 speakers and titles of their papers, together with papers completed according to the above instructions. Please address requests and questions to the organizers.
 
-Highly interconnected process plants are now common and monitoring and analysis of root causes of process abnormality including predictive risk analysis is non-trivial. It is the extraction of information from the fusion of process data, alarm and event data and process connectivity that should form the backbone of a viable process data analytics strategy and this will be the main focus of this tutorial workshop.
+AdCONIP 2021 organizing committee is in the process of having the conference proceedings indexed. Extended versions of selected high-quality papers will be invited to submit to special issues in international journals. Details will be posted through the conference website.
 
-## Learning outcomes and expected goals:
+## Manuscript Requirements
+All papers and invited session proposals must be written in English and submitted through PaperCept. Dates will be announced soon.
 
-The emphasis in this workshop will be on tools and techniques that help with understanding data and discovering information and patterns in routine process data. The objective is to deliver a coherent and coordinated work flow for the audience to know what tools to use when and the pitfalls to avoid.
-
-The goal is to inform the audience about how to accomplish the following steps to succeed in an analytics project that will ultimately lead to predictive monitoring and diagnosis of process faults, design of soft-sensors, process performance monitoring and on-line modeling methods:
-
-1. Define the problem and ask the right questions; define clear objectives;
-2. Get good data in context of the problem; 
-3. Get to know your data: visualize, explore and analyze;
-4. Find the features that affect the outcome of interest;
-5. Build meaningful models for soft-sensing; process and performance monitoring;
-6. Make the model operational and maintain these models.
-
-Towards this end the workshop will discuss the following commonly used methodologies for data analytics supplemented with successful industrial case studies. In any analytic project there are always some “do’s” and “don’t’s” and these too will be discussed. 
-
-- Data visualization and quality checks; steps in data ingestion and data management;
-- Unsupervised learning using classical clustering methods such as kNN (k nearest neighbours); Principal Components Analysis (PCA);
-- Supervised learning using:  Multivariate linear regression and its variants including LASSO; Logistic regression; Classification and Regression Trees (CART) including Random Forests; Support Vector Classification and Regression methods; Gaussian Process Regression, kernel methods, model maintenance and feature extraction; 
-- Causality analysis and process topology reconstruction methods;  
-- Reinforcement Learning methods
-
-## Expected Audience
-
-The intended audience for this workshop would be researchers studying process data analytic techniques, graduate students with interests in data science and its application to solve real industrial problems, industrial practitioners looking for solutions for predictive and prescriptive process monitoring including soft-sensor design and vendors interested in finding value in data archived in DCS systems.
-
-
-# Schedule
-
-The following topics will be discussed in this workshop. Each topic will be accompanied by one or more industrial case studies to convey the practical relevance of process data analytic methods.
-
-### [Alf Isaksson](./speakers#alf-isaksson) <small>(60 Minutes)</small>
-  - Industry 4.0 and analytics: A Vendor’s perspective
-
-### [Nina Thornhill](./speakers#nina-thornhill) <small>(60 Minutes)</small>
-  - Data checks and preparation
-  - Unsupervised learning and clustering analysis with industrial application(s)
-  - Lessons learnt from the application of analytics over the last 2 decades.
-
-### [Sirish Shah](./speakers#sirish-l-shah) <small>(60 Minutes)</small>
-  - Data Visualization with examples
-  - Broad overview of supervised learning
-  - Classification and regression trees
-  - Random Forests with applications
-  - Support vector machines with applications.
-
-### [Biao Huang](./speakers#biao-huang) <small>(60 Minutes)</small>
-  - Soft-sensor design
-  - Preliminary analysis
-  - Do’s and don’ts
-  - Image based soft-sensors with industrial applications
-
-### [Manabu Kano](./speakers#manabu-kano) <small>(60 Minutes)</small>
-  - Integration of domain knowledge and data analytics for process modeling and optimization with engineering and medical applications.
-
-### [Bhushan Gopaluni](./speakers#bhushan-gopaluni) <small>(60 Minutes)</small>
-  - Deep and Reinforcement learning and the future of analytics.
-
-### [Arun Tangirala](./speakers#arun-k-tangirala) <small>(60 Minutes)</small>
-  - Causality analysis for reconstruction of process network and toplogy
-
-### Panel Discussion <small>(30 Minutes)</small>
-  - Data science education for undergraduate or graduate school?
-  - Is industry hard-wired and ready with ‘digital plumbing’ to do analytics?
-  - What software tools are ready for deployment?
-  - Other topics
-
-## Total time:  
-- 7 hrs and 30 mins for sessions
-- 30 mins for tea/coffee
-- 1 hour for lunch
-
-# References
-
-1. Alf J Isaksson., Iiro Harjunkoski, and Guido Sand. **"The impact of digitalization on the future of control and operations."** [Computers & Chemical Engineering](https://www.sciencedirect.com/science/article/abs/pii/S0098135417304003) 114 (2018): 122-129.
-
-2. Gamer, Thomas, Mario Hoernicke, Benjamin Kloepper, Reinhard Bauer, and Alf J. Isaksson. **"The Autonomous Industrial Plant-Future of Process Engineering, Operations and Maintenance."** [IFAC-PapersOnLine](https://www.sciencedirect.com/science/article/pii/S2405896319301909) 52, no. 1 (2019): 454-460.
-
-3. Shima Khatibisepehr, Biao Huang, Swanand Khare: **“Design of inferential sensors in the process industry: A review of Bayesian methods”**, [Journal of Process Control](https://www.sciencedirect.com/science/article/pii/S095915241300156X), 23, (2013), 1575-1596.
-
-4. Agustin Vicentea, Rahul Raveendrana, Biao Huang, Shabnam Sedghi, Anuj Narang, Hailei Jiang and Warren Mitchell: **“Computer vision system for froth-middlings interface level detection in the primary separation vessels”**, [Computers and Chemical Engineering](https://www.sciencedirect.com/science/article/abs/pii/S0098135418310275), 123, (2019), 357-370.
-
-5. Iftikhar Ahmad, Manabu Kano, Shinji Hasebea, Hiroshi Kitadac, Noboru Murata: **“Gray-box modeling for prediction and control of molten steel temperature in tundish”**, [Journal of Process Control](https://www.sciencedirect.com/science/article/pii/S0959152414000420), 24, (2014), 375-382.
-
-6. Kei Hata, Koichi Fujiwara, Takao Inoue, Takuto Abe, Takatomi Kubo, Toshitaka Yamakawa, Sadahiro Nomura, Hirochika Imoto, Michiyasu Suzuki, and Manabu Kano: **“Epileptic Seizure Suppression by Focal Brain Cooling With Recirculating Coolant Cooling System: Modeling and Simulation”**, [IEEE Trans Neural Syst Rehabil Eng](https://ieeexplore.ieee.org/document/8603798/), vol. 27, no. 2, (2019).
-
-7. Wenai Hu, Sirish L Shah, Tongwen Chen: **“Framework for a smart data analytics platform for process monitoring and alarm management”**, [Computers & Chemical Engineering](https://www.sciencedirect.com/science/article/abs/pii/S0098135417303551). 114(9), (2018), 225-244.
-
-8. Nina F. Thornhill, Hallgeir Melbø, and Jan Wiik, **"Multi-dimensional visualization and clustering of historical process data"**, [Industrial Engineering and Chemistry Research](https://pubs.acs.org/doi/10.1021/ie051054q), 45, (2006), 5971-5985.
-
-9. Spielberg, Steven, Aditya Tulsyan, Nathan P. Lawrence, Philip D. Loewen, and R. Bhushan Gopaluni: **"Towards Self‐Driving Processes: A Deep Reinforcement Learning Approach to Control."** [AIChE Journal](https://dais.chbe.ubc.ca/assets/preprints/2019J9_Spielberg_AIChE.pdf) (2019).
-
-10. Sudhakar Kathari and Arun K. Tangirala: **“Efficient Reconstruction of Granger-Causal Networks in Linear Multivariable Dynamical Processes”**, [Industrial & Engineering Chemistry Research](https://pubs.acs.org/doi/10.1021/acs.iecr.8b06109) (2019).
-
-11. Rohit Kannan and Arun K. Tangirala: **“Correntropy-based partial directed coherence for testing multivariate Granger causality in nonlinear processes”**, [Physical Reviews E](https://doi.org/10.1103/physreve.89.062144), 89, (2014), 062144.
 
 
