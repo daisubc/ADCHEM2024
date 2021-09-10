@@ -14,9 +14,9 @@ author: UBC DAIS Lab
 navbar-links:
   Overview: "./index.html#overview"
   Important Dates: "./index.html#important-dates"
-  Call for Papers: "/papers"
-  Speakers: "/speakers"
-  Organizers: "/organizers"
+  Call for Papers: "/papers/"
+  Speakers: "/speakers/"
+  Organizers: "/organizers/"
 
 # --- Logo --- #
 
