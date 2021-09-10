@@ -12,12 +12,11 @@ author: UBC DAIS Lab
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Organizers: "./index.html#organizers"
   Overview: "./index.html#overview"
-  Schedule: "./index.html#schedule"
+  Important Dates: "./index.html#important-dates"
+  Call for Papers: "/papers"
   Speakers: "/speakers"
-  References: "./index.html#references"
-  DAIS Lab: "https://dais.chbe.ubc.ca"
+  Organizers: "/organizers"
 
 # --- Logo --- #
 
@@ -99,7 +98,7 @@ footer-link-col: "#404040"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "UA-168877733-1"
+# gtag: "UA-168877733-1"
 
 # Fill in your Google Analytics ID to track your website using GA
 # google_analytics: "UA-168877733-1"

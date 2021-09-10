@@ -53,13 +53,27 @@ a:hover,
 a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
 }
-blockquote {
+
+/*blockquote {
   color: #808080;
   font-style: italic;
 }
 blockquote p:first-child {
   margin-top: 0;
 }
+*/
+
+blockquote {
+    border-left: 10px solid;
+    border-left-color: {{ site.navbar-text-col | default: "#000000" }};
+    margin: 1.5em 10px;
+    padding: 1.0em 25px;
+}
+
+blockquote p {
+  display: inline;
+}
+
 hr.small {
   max-width: 6.25rem;
   margin: 1rem auto;
