@@ -1,18 +1,18 @@
 ---
 layout: homepage
 title: "2022 AdCONIP Symposium"
-subtitle: "8th International Symposium on Advanced Control of Industrial Processes at UBC Vancouver (August 7th to 9th 2022)"
+subtitle: "7th International Symposium on Advanced Control of Industrial Processes at UBC Vancouver (August 7th to 9th 2022)"
 show-avatar: False
 ---
 
-> # The 8th International Symposium on Advanced Control of Industrial Processes (AdCONIP 2022) will be held at UBC Vancouver, BC, Canada on August 7-9, 2022
+> # The 7th International Symposium on Advanced Control of Industrial Processes (AdCONIP 2022) will be held at UBC Vancouver, BC, Canada on August 7-9, 2022
 
 <div class="text-center">
   <a class="btn btn-primary btn-lg" target="_blank" href="https://www.ifac2020.org/registration/" role="button">Register Now</a>
 </div>
 
 # Overview
-The International Symposium on Advanced Control of Industrial Processes (AdCONIP) is a triennial international conference. AdCONIP 2022 is the eigth symposium following previous events at Kumamoto (2002), Seoul (2005), Jasper (2008), Hangzhou (2011), Hiroshima (2014), Taipei (2017), Singapore (2020).
+The International Symposium on Advanced Control of Industrial Processes (AdCONIP) is a triennial international conference. AdCONIP 2022 is the seventh symposium following previous events at Kumamoto (2002), Seoul (2005), Jasper (2008), Hangzhou (2011), Hiroshima (2014), Taipei (2017).
 
 This symposium aims at bringing together researchers and practitioners from academia and industry to discuss the state of the art developments/techniques in advanced control and its applications in industrial processes. The emphasis of this symposium will be on the theory and practice of advanced industrial control methods.
 
@@ -57,5 +57,8 @@ Inquiries about the symposium may be addressed to
 - Biao Huang, Co-Chair, University of Alberta *(biao.huang@ualberta.ca)*
 - Terry Chmelyk, Spartan Controls
 - Moncef Chioua, Polytechnique Montréal *(moncef-2.chioua@polymtl.ca)*
+- Prashant Mhaskar, McMaster University *(mhaskar@mcmaster.ca)*
+- Salim Ahmed, Memorial University *(sahmed@mun.ca)*
 
-For more details, see the AdCONIP 2022 [Organizing Committee](/organizers).
+
+For more details, see the AdCONIP 2022 [Organizing Committee](./organizers/).

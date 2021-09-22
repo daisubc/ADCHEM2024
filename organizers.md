@@ -11,6 +11,8 @@ show-avatar: False
 - Biao Huang, Co-Chair, University of Alberta
 - Terry Chmelyk, Spartan Controls
 - Moncef Chioua, Polytechnique Montréal
+- Prashant Mhaskar, McMaster University
+- Salim Ahmed, Memorial University
 
 ---
 
