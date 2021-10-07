@@ -5,10 +5,10 @@ subtitle: "7th International Symposium on Advanced Control of Industrial Process
 show-avatar: False
 ---
 
-> # The 7th International Symposium on Advanced Control of Industrial Processes (AdCONIP 2022) will be held at UBC Vancouver, BC, Canada on August 7-9, 2022
+> # The 7th International Symposium on Advanced Control of Industrial Processes (AdCONIP 2022) will be held at The Nest, UBC Vancouver, BC, Canada on August 7-9, 2022
 
 <div class="text-center">
-  <a class="btn btn-primary btn-lg" target="_blank" href="https://www.ifac2020.org/registration/" role="button">Register Now</a>
+  <a class="btn btn-primary btn-lg" href="#" role="button">Registeration Opens Soon</a>
 </div>
 
 # Overview
@@ -19,7 +19,6 @@ This symposium aims at bringing together researchers and practitioners from acad
 Main topics for the symposium include, but are not limited to, the following:
 
 | Process Control & Automation              | Precision Agriculture                   |
-|-------------------------------------------|-----------------------------------------|
 | Adaptive & Learning Systems               | Factory Automation                      |
 | Safe Process Operating Systems            | Fault Detection & Diagnosis             |
 | Data Mining & Data Analytics              | Intelligent Control                     |
@@ -37,28 +36,12 @@ Main topics for the symposium include, but are not limited to, the following:
 
 Symposium details and dates:
 
-| Event                      | Due Date                    |
-|----------------------------|---------------------------- |
-| 6-page Paper Submission    | Jan 31st 2022               |
-| 2-page Abstract (Industry) | Jan 31st 2022               |
-| Invited Session Proposal   | Jan 31st 2022               |
-| Acceptance Notification    | TBA                         |
-| Final Paper Uploading      | TBA                         |
-| Early-bird Registration    | TBA                         |
-| Conference Workshops       | TBA                         |
-| Conference Welcome Party   | TBA                         |
-| Conference                 | 7th, 8th and 9th August 2022|
+{% include important_dates.html %}
 
 # Contact
 
 Inquiries about the symposium may be addressed to
 
-- Bhushan Gopaluni, University of British Columbia, Canada *(bhushan.gopaluni@ubc.ca)*
-- Biao Huang, Co-Chair, University of Alberta *(biao.huang@ualberta.ca)*
-- Terry Chmelyk, Spartan Controls
-- Moncef Chioua, Polytechnique Montréal *(moncef-2.chioua@polymtl.ca)*
-- Prashant Mhaskar, McMaster University *(mhaskar@mcmaster.ca)*
-- Salim Ahmed, Memorial University *(sahmed@mun.ca)*
-
+{% include contacts.html %}
 
 For more details, see the AdCONIP 2022 [Organizing Committee](./organizers/).

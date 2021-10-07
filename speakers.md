@@ -5,6 +5,10 @@ subtitle: Workshop speaker profiles and biography
 show-avatar: False
 ---
 
+# Speakers
+To be announced soon.
+
+<!-- 
 ## Bhushan Gopaluni
 ### [Research Website](https://dais.chbe.ubc.ca/)
 <img class="speaker-img" src="{{ "/assets/img/bhushan.jpg" | relative_url }}">
@@ -38,4 +42,4 @@ Arun K. Tangirala holds a Bachelors in Chemical Engineering and a Doctoral degre
 ## Nina Thornhill
 ### [Research Website](https://www.imperial.ac.uk/people/n.thornhill)
 <img class="speaker-img" src="{{ "/assets/img/nina.png" | relative_url }}">
-Nina Thornhill holds the ABB Chair of Process Automation at Imperial College London. She and her research group work at the interface between industry and academia and is interested in finding ways in which industrial operations can be controlled, operated, maintained and improved through handling of process information, data integration and information extraction. Her research interests include optimization and industrial data analysis with applications in oil and gas, chemicals, and electricity transmission. She was the recipient of the 2019 Nordic Process Control award.She received a BA in Physics from Oxford University, MSc in Control Systems from Imperial College and PhD from University College London. She worked at ICI, British Aerospace and in the Department of Electronic and Electrical Engineering at University College London before moving to the Department of Chemical Engineering at Imperial College London in 2007.  
+Nina Thornhill holds the ABB Chair of Process Automation at Imperial College London. She and her research group work at the interface between industry and academia and is interested in finding ways in which industrial operations can be controlled, operated, maintained and improved through handling of process information, data integration and information extraction. Her research interests include optimization and industrial data analysis with applications in oil and gas, chemicals, and electricity transmission. She was the recipient of the 2019 Nordic Process Control award.She received a BA in Physics from Oxford University, MSc in Control Systems from Imperial College and PhD from University College London. She worked at ICI, British Aerospace and in the Department of Electronic and Electrical Engineering at University College London before moving to the Department of Chemical Engineering at Imperial College London in 2007.   -->

@@ -18,17 +18,4 @@ AdCONIP 2021 organizing committee is in the process of having the conference pro
 ## Manuscript Requirements
 All papers and invited session proposals must be written in English and submitted through PaperCept. Dates will be announced soon.
 
-
-| Event                      | Due Date                    |
-|----------------------------|---------------------------- |
-| 6-page Paper Submission    | Jan 31st 2022               |
-| 2-page Abstract (Industry) | Jan 31st 2022               |
-| Invited Session Proposal   | Jan 31st 2022               |
-| Acceptance Notification    | TBA                         |
-| Final Paper Uploading      | TBA                         |
-| Early-bird Registration    | TBA                         |
-| Conference Workshops       | TBA                         |
-| Conference Welcome Party   | TBA                         |
-| Conference                 | 7th, 8th and 9th August 2022|
-
-
+{% include important_dates.html %}

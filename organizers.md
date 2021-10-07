@@ -7,12 +7,7 @@ show-avatar: False
  
 ## National Organizing Committee
 
-- Bhushan Gopaluni, Chair, University of British Columbia
-- Biao Huang, Co-Chair, University of Alberta
-- Terry Chmelyk, Spartan Controls
-- Moncef Chioua, Polytechnique Montréal
-- Prashant Mhaskar, McMaster University
-- Salim Ahmed, Memorial University
+{% include contacts.html %}
 
 ---
 
