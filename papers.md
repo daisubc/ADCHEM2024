@@ -16,6 +16,6 @@ Proposals and papers for invited sessions are especially welcome. They should co
 AdCONIP 2021 organizing committee is in the process of having the conference proceedings indexed. Extended versions of selected high-quality papers will be invited to submit to special issues in international journals. Details will be posted through the conference website.
 
 ## Manuscript Requirements
-All papers and invited session proposals must be written in English and submitted through PaperCept. Dates will be announced soon.
+All papers and invited session proposals must be written in English and submitted through [PaperCept](https://controls.papercept.net/conferences/scripts/start.pl).
 
 {% include important_dates.html %}
