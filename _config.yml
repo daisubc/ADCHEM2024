@@ -15,7 +15,7 @@ navbar-links:
   Overview: "./index.html#overview"
   Important Dates: "./index.html#important-dates"
   Call for Papers: "/papers/"
-  Paper Submissions: "#"
+  Paper Submissions: "https://controls.papercept.net/conferences/scripts/start.pl"
   Speakers: "/speakers/"
   Organizers: "/organizers/"
 
