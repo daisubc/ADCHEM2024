@@ -1,4 +1,13 @@
-<nav class="navbar navbar-expand-md navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% endif %}">
+<div class="alert alert-warning alert-dismissible fade show" role="alert">
+  <strong>Announcement:</strong> Due to the COVID situation, AdCONIP 2022 will run in a <b>hybrid mode</b> with both face-to-face and online activities.
+  <br>
+  Paper submissions are now open on <a href="https://controls.papercept.net/conferences/scripts/start.pl" target="_blank">PaperCept</a>. Deadline: Feb 15th 2022.
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+
+<nav class="navbar navbar-expand-md navbar-light sticky-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% endif %}">
 
   {%- if site.title-img -%}
     <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img }}"/></a>
