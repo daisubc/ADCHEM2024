@@ -16,6 +16,8 @@ show-avatar: False
 - Jie Bao, Chair, University of New South Wales, Sydney, Australia
 - Lakshminarayan Samavedham, Co-Chair, National University of Singapore, Singapore 
 - Jay Lee, IEEE Representative, Korea Advanced Institute of Science and Technology, South Korea
+- Sirish Shah, University of Alberta, Canada
+- Jay Lu, Texas Tech University, United States
 
 ---
 
