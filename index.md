@@ -38,6 +38,10 @@ Symposium details and dates:
 
 {% include important_dates.html %}
 
+# Registration Fees
+
+{% include registration.html %}
+
 # Contact
 
 Inquiries about the symposium may be addressed to
