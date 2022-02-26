@@ -42,6 +42,10 @@ Symposium details and dates:
 
 {% include registration.html %}
 
+# Sponsors
+
+{% include sponsors.html %}
+
 # Contact
 
 Inquiries about the symposium may be addressed to
