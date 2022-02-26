@@ -12,6 +12,8 @@ show-avatar: False
 </div>
 
 # Overview
+The 7th International Symposium on Advanced Control of Industrial Processes (AdCONIP 2022) will be held at The Nest, UBC Vancouver, BC, Canada on August 7-9, 2022
+
 The International Symposium on Advanced Control of Industrial Processes (AdCONIP) is a triennial international conference. AdCONIP 2022 is the seventh symposium following previous events at Kumamoto (2002), Seoul (2005), Jasper (2008), Hangzhou (2011), Hiroshima (2014), Taipei (2017).
 
 This symposium aims at bringing together researchers and practitioners from academia and industry to discuss the state of the art developments/techniques in advanced control and its applications in industrial processes. The emphasis of this symposium will be on the theory and practice of advanced industrial control methods.
