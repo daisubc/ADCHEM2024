@@ -50,7 +50,7 @@ The intended audience for this workshop would be industrial practitioners of con
 - **9:15AM** Coffee break
 - **9:30AM** Alarm data analytics (SLS)
 - **10:00AM** Reconstructing conservation networks from data (SN)
-- **11:15AM** Causal discovery and network reconstruction from data (AKT)Lunch
+- **11:15AM** Causal discovery and network reconstruction from data (AKT)
 - **12:30PM** Questions + General discussion
 
 ## Speakers
