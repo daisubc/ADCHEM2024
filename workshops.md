@@ -62,20 +62,22 @@ The intended audience for this workshop would be industrial practitioners of con
 ## Speakers
 
 ### Sirish Shah (UAlberta)
-<img src="/assets/img/sirish.png" style="float: left; padding: 0.5em">
+<img src="/assets/img/sirish.png" style="float: left; padding: 0.5em; margin-right: 1.0em; width:200px">
 
 **Sirish L. Shah** is Emeritus Professor at the University of Alberta where he held the NSERC-Matrikon-Suncor-iCORE Senior Industrial Research Chair in Computer Process Control from 2000 to 2012. 
 The main area of his current research is process and performance monitoring, system identification and design, analysis and rationalization of alarm systems. He has co-authored three books, the first titled “Performance Assessment of Control Loops: Theory and Applications”, a second book titled book titled “Diagnosis of Process Nonlinearities and Valve Stiction: Data Driven Approaches” and a more recent brief monograph titled, “Capturing Connectivity and Causality in Complex Industrial Processes”.
 
 ### Shankar Narasimhan (IIT Madras)
-<img src="/assets/img/shankar.png" style="float: left; padding: 0.5em">
+<img src="/assets/img/shankar.png" style="float: left; padding: 0.5em; margin-right: 1.0em; width:200px">
 
 **Shankar Narasimhan** is the M.S. Ananth Institute Chair Professor in the Department of Chemical Engineering at IIT Madras. He obtained his Bachelor’s degree from IIT Madras in 1982 and PhD degree from Northwestern University, USA in 1987.  His major research interests are in the areas of Data Mining, Process Design and Optimization and Fault Detection and Diagnosis (FDD).  He is the co-author of several important papers and a book on Data Reconciliation and Gross Error Detection. He has held visiting positions at the Centre for Automatic Control in Nancy, France, Purdue University, Clarkson University and Texas Tech University in USA and the University of Alberta in Canada. He has also spent summer internships at Engineers India Ltd., R&D Centre in Gurgaon, Honeywell Technology Solutions Ltd., R&D Centre at Bangalore, and ABB Global Services Ltd., Bangalore as part of high-level industry-academia interactions. He is the co-founder of Gyan Data Pvt. Ltd. in 2011, which specializes in using data analytics for manufacturing excellence and GITAA Pvt. Ltd., in 2018, which offers training in advanced data analytics, machine learning and artificial intelligence. He is a Fellow of the Indian National Academy of Engineering. 
 
 ### Arun K. Tangirala (IIT Madras)
-<img src="/assets/img/arun.png" style="float: left; padding: 0.5em">
+<img src="/assets/img/arun.png" style="float: left; padding: 0.5em; margin-right: 1.0em; width:200px">
 
 **Arun K. Tangirala** holds a Bachelors in Chemical Engineering and a Doctoral degree in Process Control from the University of Alberta. He is a Professor at the Department of Chemical Engineering, IIT Madras. His research is concerned with multi-disciplinary problems of causality analysis, network reconstruction, control loop performance monitoring, multiscale identification, sparse optimization (compressive sensing)-based identification, systems biology and modern applications of data science. He is a recipient of several prestigious teaching & research awards and international fellowships. In addition, he has held visiting appointments at the University of Delaware, Technical University of Munich and Tsinghua University. He was awarded the Young Faculty Recognition Award in 2010 and the 2014 Institute Research and Development Award by IIT Madras. He is the author of a comprehensive classroom text on "Principles of System Identification: Theory and Practice". He is currently the Editor-in-Chief of the Journal of Institution of Engineers India: Series E (Chemical and Textile Engineering), an Associate Editor of the ASME Journal of Dynamics, Measurement and Control and an Associate Editor of Control Engineering Practice. He is also an active member of ASME, IEEE, AIChE, CSChE and is a faculty associate of the Robert Bosch Centre for Data Science and Artificial Intelligence at IIT Madras.
+
+---
 
 # Workshop 2: Making reinforcement learning a practical technology for industrial control
 
@@ -121,15 +123,50 @@ The expected audience is researchers, graduate students, and industrial practiti
 - Philip Loewen, University of British Columbia, Canada (loew@math.ubc.ca)
 
 ## Speakers
-- Philip Loewen, University of British Columbia, Canada (loew@math.ubc.ca)
-- Thomas Badgwell, Collaborative Systems Integration, USA (tom.badgwell@gmail.com)
-- Jay Lee, Korea Advanced Institute of Science and Technology, Korea, South Korea (jayhlee@kaist.ac.kr)
-- Biao Huang, University of Alberta, Canada (biao.huang@ualberta.ca)
-- Panagiotis Petsagkourakis, Illumina, England (ppetsag@gmail.com)
-- Ehecatl Antonio del R ́ıo Chanona, Imperial College London, England (a.del-rio-chanona@imperial.ac.uk)
-- Mario Zanon, IMT School for Advanced Studies Lucca, Italy (mario.zanon@imtlucca.it)
-- Sebastien Gros, Norwegian University of Science and Technology, Norway (sebastien.gros@ntnu.no)
-- (Panagiotis Petsagkourakis & Ehecatl Antonio del R ́ıo Chanona, and Mario Zanon & Sebastien Gros will give joint presentations.)
+### Philip Loewen, University of British Columbia, Canada (loew@math.ubc.ca)
+<img src="/assets/img/loewen.jpeg" style="float: left; padding: 0.5em; margin-right: 1.0em; width: 200px">
+
+**Philip D. Loewen** received the Ph.D. degree in mathematics from The University of British Columbia (UBC), Vancouver, BC, Canada. He was involved in post-doctoral research with the Centre de Recherches Mathematiques, Montreal, QC, Canada, and the Electrical Engineering Department, Imperial College London, London, U.K. He returned to UBC in 1987, where he currently serves as a Professor and the Head of Mathematics. His current research interests include optimal control, optimization, convex and nonsmooth analysis, and engineering applications.
+
+### Thomas Badgwell, Collaborative Systems Integration, USA (tom.badgwell@gmail.com)
+<img src="/assets/img/badgwell.png" style="float: left; padding: 0.5em; margin-right: 1.0em; width: 200px">
+
+**Thomas A. (Tom) Badgwell** is the Chief Technology Officer at Collaborative Systems Integration, an Austin-based startup providing systems integration services and software products for Open Process Automation (O-PAS) based systems. He earned a BS degree from Rice University and MS and PhD degrees from the University of Texas at Austin, all in Chemical Engineering, and he is registered as a Professional Engineer in Texas. Tom’s career has focused on modeling, optimization, and control of chemical processes, with past positions at Setpoint, Fisher/Rosemount, Rice University, Aspen Technology, and ExxonMobil. He is a Fellow of the American Institute of Chemical Engineers (AIChE) and a past Director of the Computing and Systems Technology (CAST) Division, from which he received the Computing Practice Award in 2013. He has served as an Associate Editor for the Journal of Process Control and as a Trustee of the Computer Aids in Chemical Engineering (CACHE) Corporation.
+
+### Jay Lee, Korea Advanced Institute of Science and Technology, Korea, South Korea (jayhlee@kaist.ac.kr)
+<img src="/assets/img/jay.jpeg" style="float: left; padding: 0.5em; margin-right: 1.0em; width:200px">
+
+**Jay H. Lee** obtained his B.S. degree in Chemical Engineering from the University of Washington, Seattle, in 1986, and his Ph.D. degree in Chemical Engineering from California Institute of Technology, Pasadena, in 1991. From 1991 to 1998, he was with the Department of Chemical Engineering at Auburn University, AL, as an Assistant Professor and an Associate Professor. From 1998-2000, he was with School of Chemical Engineering at Purdue University, West Lafayette, and then with the School of Chemical Engineering at Georgia Institute of Technology, Atlanta from 2000-2010. Since 2010, he is with the Chemical and Biomolecular Engineering Department at Korea Advanced Institute of Science and Technology (KAIST), where he was the department head from 2010-2015. He is currently a Professor, Associate Vice President of International Office, and Director of Saudi Aramco-KAIST CO2 Management Center at KAIST. He published over 180 manuscripts in SCI journals with more than 13000 Google Scholar citations. His research interests are in the areas of system identification, state estimation, robust control, model predictive control, and reinforcement learning with applications to energy systems, biorefinery, and CO2 capture/conversion systems.
+
+### Biao Huang, University of Alberta, Canada (biao.huang@ualberta.ca)
+<img src="/assets/img/biao.png" style="float: left; padding: 0.5em; margin-right: 1.0em; width:200px">
+
+**Biao Huang** received his Ph.D. degree in Process Control from the University of Alberta, Canada, in 1997. He held MSc degree (1986) and BSc degree (1983) in Automatic Control from the Beijing University of Aeronautics and Astronautics. He is currently a Professor with the University of Alberta, IEEE Fellow, and Fellow of the Canadian Academy of Engineering. His research interest includes Process Control, Process Data Analytics and Machine Learning. He is the Editor-in-Chief for IFAC Journal Control Engineering Practice, Subject Editor for Journal of the Franklin Institute, and Associate Editor for Journal of Process Control.
+
+### Panagiotis Petsagkourakis, Illumina, England (ppetsag@gmail.com)
+<img src="/assets/img/panos.jpeg" style="float: left; padding: 0.5em; margin-right: 1.0em; width:200px">
+
+**Panos** received his chemical engineering degree (silver medal award- summa cum laude) from the National Technical University of Athens (Greece) in 2015. He then joined the University of Manchester and the School of Chemical Engineering and Analytical Science for to pursue his PhD degree in 2015. In February 2019, he joined University College London as a Research fellow for the EPSRC project on cognitive chemical manufacturing. He also joined Imperial College London as visiting researcher. Panos joined the L&SE Young Members Forum in 2019 as university representative.
+
+### Ehecatl Antonio del Rio Chanona, Imperial College London, England (a.del-rio-chanona@imperial.ac.uk)
+<img src="/assets/img/antonio.jpeg" style="float: left; padding: 0.5em; margin-right: 1.0em; width:200px">
+
+**Antonio del Rio Chanona** is head of the Optimisation and Machine Learning for Process Systems Engineering group at the Department of Chemical Engineering, Imperial College London. Antonio received his MEng from UNAM in Mexico, and his PhD from the University of Cambridge where he was awarded the Danckwerts-Pergamon Prize for the best doctoral thesis of his year. He received the EPSRC fellowship to adopt automation and intelligent technologies into bioprocess scaleup and industrialization and has received awards from the International Federation of Automatic Control (IFAC), and the Institution of Chemical Engineers (IChemE) in recognition for research in areas of process systems engineering, industrialisation of bioprocesses, and adoption of intelligent and autonomous learning algorithms to chemical engineering. 
+Antonio’s main research interests include Reinforcement Learning, Data-Driven Optimization, Control and Hybrid Modelling.
+
+### Mario Zanon, IMT School for Advanced Studies Lucca, Italy (mario.zanon@imtlucca.it)
+<img src="/assets/img/mario.png" style="float: left; padding: 0.5em; margin-right: 1.0em; width: 200px">
+
+**Mario Zanon**. I received my B.Sc. in Industrial Engineering from the University of Trento in 2008 and my M.Sc. in 2010 in Mechatronics and in General Engineering from the University of Trento and the Ecole Centrale Paris respectively in the context of a dual degree agreement. I obtained my Ph.D. in Electrical Engineering from the KU Leuven in 2015 under the supervision of Prof. Moritz Diehl. From November 2015 until December 2017, I have been a postdoc researcher at Chalmers University of Technology under the supervision of Prof. Paolo Falcone. From January 2018 until November 2021 I have been assistant professor at the IMT School for Advanced Studies Lucca, where I became Associate Professor in December 2021.
+
+### Sebastien Gros, Norwegian University of Science and Technology, Norway (sebastien.gros@ntnu.no)
+<img src="/assets/img/gros.jpg" style="float: left; padding: 0.5em; margin-right: 1.0em; width: 200px">
+
+**Sebastien Gros** received his Ph.D degree from EPFL, Switzerland, in 2007. After a journey by bicycle from Switzerland to the Everest base camp in full autonomy, he joined a R&D group hosted at Strathclyde University focusing on wind turbine control. In 2011, he joined the university of KU Leuven, where his main research focus was on optimal control and fast NMPC for complex mechanical systems. He joined the Department of Signals and Systems at Chalmers University of Technology, Göteborg in 2013, where he became associate Prof. in 2017. He is now full Prof. and Head of the department of Engineering Cybernetic, NTNU, Norway and affiliate Prof. at Chalmers. His main research interests includes numerical methods, real-time optimal control, reinforcement learning, stochastic optimal control, Markov Decision Processes, and the optimal control of energy-related applications. He is currently focusing on the optimization of smart houses with ambitious and unique experiments.
+
+#### Joint Presentations:
+- Panagiotis Petsagkourakis & Ehecatl Antonio del Rio Chanona will give joint presentations.
+- Mario Zanon & Sebastien Gros will give joint presentations.
 
 ### References
 - [1] Rui Nian, Jinfeng Liu, and Biao Huang. A review on reinforcement learning: Introduction and applications in industrial process control. Computers & Chemical Engineering, page 106886, 2020.
