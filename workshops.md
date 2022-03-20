@@ -126,7 +126,7 @@ The expected audience is researchers, graduate students, and industrial practiti
 ### Philip Loewen, University of British Columbia, Canada (loew@math.ubc.ca)
 <img src="/assets/img/loewen.jpeg" style="float: left; padding: 0.5em; margin-right: 1.0em; width: 200px">
 
-**Philip D. Loewen** received the Ph.D. degree in mathematics from The University of British Columbia (UBC), Vancouver, BC, Canada. He was involved in post-doctoral research with the Centre de Recherches Mathematiques, Montreal, QC, Canada, and the Electrical Engineering Department, Imperial College London, London, U.K. He returned to UBC in 1987, where he currently serves as a Professor and the Head of Mathematics. His current research interests include optimal control, optimization, convex and nonsmooth analysis, and engineering applications.
+**Philip D. Loewen** received the Ph.D. degree in mathematics from The University of British Columbia (UBC), Vancouver, BC, Canada. He was involved in post-doctoral research with the Centre de Recherches Mathematiques, Montreal, QC, Canada, and the Electrical Engineering Department, Imperial College London, London, U.K. He returned to UBC in 1987, where he currently serves as a Professor of Mathematics. His current research interests include optimal control, optimization, convex and nonsmooth analysis, and engineering applications.
 
 ### Thomas Badgwell, Collaborative Systems Integration, USA (tom.badgwell@gmail.com)
 <img src="/assets/img/badgwell.png" style="float: left; padding: 0.5em; margin-right: 1.0em; width: 200px">
