@@ -7,8 +7,10 @@ show-avatar: False
 
 > # The 7th International Symposium on Advanced Control of Industrial Processes (AdCONIP 2022) will be held at The Nest, UBC Vancouver, BC, Canada on August 7-9, 2022
 
+*__Note:__ AdCONIP 2022 will run in a hybrid mode with both face-to-face and online activities.*
+
 <div class="text-center">
-  <a class="btn btn-primary btn-lg" href="https://controls.papercept.net/conferences/scripts/start.pl" role="button">Submit a Paper</a>
+  <a class="btn btn-primary btn-lg" href="http://controls.papercept.net/registration/" role="button">Register Now</a>
 </div>
 
 # Overview
@@ -43,6 +45,25 @@ Symposium details and dates:
 # Registration Fees
 
 {% include registration.html %}
+
+# Accomodations
+
+> **The University of British Columbia** is a destination worthy of an overnight stay — or two! Make the most of your campus visit by booking into an affordable and accessible UBC hotel or hostel. Whether you’re looking for cozy-and-practical or roomy-and-luxurious, you’ll find UBC accommodations to suit your style and budget.
+
+For a list of on-campus accomodation options, please visit [https://visit.ubc.ca/eat-drink-and-stay/accommodation/](https://visit.ubc.ca/eat-drink-and-stay/accommodation/)
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="mt-2 mb-2">
+      <a href="https://visit.ubc.ca/eat-drink-and-stay/accommodation/" target="_blank"><img src="./assets/img/westcoast.jpeg" alt="UBC hotels" style="width:100%"></a>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="mt-2 mb-2">
+      <a href="https://visit.ubc.ca/eat-drink-and-stay/accommodation/" target="_blank"><img src="./assets/img/standardsuite.jpeg" alt="UBC hotels" style="width:100%"></a>
+    </div>
+  </div>  
+</div>
 
 # Sponsors
 
