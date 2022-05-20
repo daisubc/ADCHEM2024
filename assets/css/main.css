@@ -122,6 +122,10 @@ img::-moz-selection {
   background: transparent;
 }
 
+.main-img img{
+  width: 100%;
+}
+
 img {
   max-width: 100%;
 }
