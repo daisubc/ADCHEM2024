@@ -46,6 +46,29 @@ Symposium details and dates:
 
 {% include registration.html %}
 
+# Events
+## Conference Banquet
+
+- Date/Time: August 8th 2022 - 6.30PM - 10.00PM
+- Location: UBC Sage Restaurant
+- See location on [Google Maps](https://www.google.ca/maps/place/Sage/@49.2686377,-123.2576719,19z/data=!4m12!1m6!3m5!1s0x548672b15bef1c83:0x4272b6b37e601a30!2sSage!8m2!3d49.2686687!4d-123.2572729!3m4!1s0x548672b15bef1c83:0x4272b6b37e601a30!8m2!3d49.2686687!4d-123.2572729)
+
+> UBC’s elegant Sage restaurant offers fresh West Coast cuisine alongside impressive ocean views. Sage Restaurant is located west across flagpole plaza from the Chan Centre, inside the Leon and Thea Koerner University Centre.
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="mt-2 mb-2">
+      <a href="https://visit.ubc.ca/eat-drink-and-stay/restaurants/restaurants-lounges-and-pubs/sage/" target="_blank"><img src="./assets/img/sage.jpeg" alt="UBC hotels" style="width:100%"></a>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="mt-2 mb-2">
+      <a href="https://visit.ubc.ca/eat-drink-and-stay/restaurants/restaurants-lounges-and-pubs/sage/" target="_blank"><img src="./assets/img/sage_patio.jpeg" alt="UBC hotels" style="width:100%"></a>
+    </div>
+  </div>  
+</div>
+
+
 # Accomodations
 
 > **The University of British Columbia** is a destination worthy of an overnight stay — or two! Make the most of your campus visit by booking into an affordable and accessible UBC hotel or hostel. Whether you’re looking for cozy-and-practical or roomy-and-luxurious, you’ll find UBC accommodations to suit your style and budget.

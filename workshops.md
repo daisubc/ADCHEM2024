@@ -9,7 +9,9 @@ show-avatar: False
 Pre-conference workshops will be offered at AdCONIP 2022. Please see the list below.
 
 - [Workshop 1: Process Data Analytics and Network or Flowsheet Reconstruction](#workshop-1-process-data-analytics-and-network-or-flowsheet-reconstruction)
+  + August 7th 2022 - 8AM to 2PM
 - [Workshop 2: Making reinforcement learning a practical technology for industrial control](#workshop-2-making-reinforcement-learning-a-practical-technology-for-industrial-control)
+  + August 7th 2022 - 3PM to 7PM
 
 # Workshop 1: Process Data Analytics and Network or Flowsheet Reconstruction
 
