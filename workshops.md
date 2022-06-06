@@ -9,12 +9,12 @@ show-avatar: False
 Pre-conference workshops will be offered at AdCONIP 2022. Please see the list below.
 
 - [Workshop 1: Process Data Analytics and Network or Flowsheet Reconstruction](#workshop-1-process-data-analytics-and-network-or-flowsheet-reconstruction)
-  + August 7th 2022 - 8AM to 2PM
-- [Workshop 2: Making reinforcement learning a practical technology for industrial control](#workshop-2-making-reinforcement-learning-a-practical-technology-for-industrial-control)
   + August 7th 2022 - 3PM to 7PM
+- [Workshop 2: Making reinforcement learning a practical technology for industrial control](#workshop-2-making-reinforcement-learning-a-practical-technology-for-industrial-control)
+  + August 7th 2022 - 8AM to 2PM
 
 # Workshop 1: Process Data Analytics and Network or Flowsheet Reconstruction
-### August 7th 2022 - 8AM to 2PM
+### August 7th 2022 - 3PM to 7PM
 
 ## Overview
 The following topics will be discussed in this workshop. Each topic will be accompanied by one or more industrial case study to convey the utilitarian value of the learning, discovery and diagnosis from process data.
@@ -51,7 +51,7 @@ Basic knowledge of statistics and linear algebra
 ## Target audience
 The intended audience for this workshop would be industrial practitioners of control including vendors working in the area of on-line data logging and archiving, graduate students with interests in statistical learning and data science and academics.
 
-## Course Schedule
+<!-- ## Course Schedule
 **Time:** 4.5 hours (half day) on **7th August 2022**.
 
 - **8:00AM** Registration and introduction of speakers and participants
@@ -61,6 +61,7 @@ The intended audience for this workshop would be industrial practitioners of con
 - **10:00AM** Reconstructing conservation networks from data (SN)
 - **11:15AM** Causal discovery and network reconstruction from data (AKT)
 - **12:30PM** Questions + General discussion
+ -->
 
 ## Speakers
 
@@ -83,7 +84,7 @@ The main area of his current research is process and performance monitoring, sys
 ---
 
 # Workshop 2: Making reinforcement learning a practical technology for industrial control
-### August 7th 2022 - 3PM to 7PM
+### August 7th 2022 - 8AM to 2PM
 
 ## Overview
 Reinforcement learning (RL) is an emerging technology in process systems engineering (PSE) [1,2]. The objective in RL is to generate an optimal “policy” in a stochastic environment [3]. This general formulation makes RL appealing for both control and operational decision-making tasks, notably, without a system model [2]. Despite the enthusiasm surrounding RL, there are also reasons to be skeptical of its viability. For example, RL does not have strong stability or constraint satisfaction guarantees, and it is notoriously data-hungry. Recent work at the intersection of RL and PSE strives to mitigate these issues and ultimately make RL more reliable, scaleable, and interpretable [4–7]. This workshop aims to engage academics and industrial practitioners in both the machine learning and controls communities with a lively discussion on the challenges and opportunities surrounding real-world RL.
