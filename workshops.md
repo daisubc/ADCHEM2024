@@ -12,6 +12,7 @@ Pre-conference workshops will be offered at AdCONIP 2022. Please see the list be
   + August 7th 2022 - 3PM to 7PM
 - [Workshop 2: Making reinforcement learning a practical technology for industrial control](#workshop-2-making-reinforcement-learning-a-practical-technology-for-industrial-control)
   + August 7th 2022 - 8AM to 2PM
+  + [See detailed workshop schedule]({% link RL_workshop.md %})
 
 # Workshop 1: Process Data Analytics and Network or Flowsheet Reconstruction
 ### August 7th 2022 - 3PM to 7PM
@@ -120,6 +121,9 @@ The following topics will be discussed in this workshop.
 - Item (3) will cover 5 presentations lasting roughly 30 min–45 min.
 - Due to the hybrid format and some speakers presenting remotely, we have not yet assigned time slots. This will be a daylong workshop with breaks for coffee and lunch.
 
+## Schedule
+A detailed schedule is available in [this page]({% link RL_workshop.md %}).
+
 ## Expected Audience
 The expected audience is researchers, graduate students, and industrial practitioners primarily with a controls background who are interested in practical aspects of deploying reinforcement learning techniques.
 
@@ -133,10 +137,7 @@ The expected audience is researchers, graduate students, and industrial practiti
 
 **Philip D. Loewen** received the Ph.D. degree in mathematics from The University of British Columbia (UBC), Vancouver, BC, Canada. He was involved in post-doctoral research with the Centre de Recherches Mathematiques, Montreal, QC, Canada, and the Electrical Engineering Department, Imperial College London, London, U.K. He returned to UBC in 1987, where he currently serves as a Professor of Mathematics. His current research interests include optimal control, optimization, convex and nonsmooth analysis, and engineering applications.
 
-### Thomas Badgwell, Collaborative Systems Integration, USA (tom.badgwell@gmail.com)
-<img src="/assets/img/badgwell.png" style="float: left; padding: 0.5em; margin-right: 1.0em; width: 200px">
 
-**Thomas A. (Tom) Badgwell** is the Chief Technology Officer at Collaborative Systems Integration, an Austin-based startup providing systems integration services and software products for Open Process Automation (O-PAS) based systems. He earned a BS degree from Rice University and MS and PhD degrees from the University of Texas at Austin, all in Chemical Engineering, and he is registered as a Professional Engineer in Texas. Tom’s career has focused on modeling, optimization, and control of chemical processes, with past positions at Setpoint, Fisher/Rosemount, Rice University, Aspen Technology, and ExxonMobil. He is a Fellow of the American Institute of Chemical Engineers (AIChE) and a past Director of the Computing and Systems Technology (CAST) Division, from which he received the Computing Practice Award in 2013. He has served as an Associate Editor for the Journal of Process Control and as a Trustee of the Computer Aids in Chemical Engineering (CACHE) Corporation.
 
 ### Jay Lee, Korea Advanced Institute of Science and Technology, Korea, South Korea (jayhlee@kaist.ac.kr)
 <img src="/assets/img/jay.jpeg" style="float: left; padding: 0.5em; margin-right: 1.0em; width:200px">
