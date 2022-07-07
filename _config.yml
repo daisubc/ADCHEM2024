@@ -13,6 +13,7 @@ author: AdCONIP 2022
 
 navbar-links:
   Overview: "./index.html#overview"
+  Schedule: "/schedule/"
   Important Dates: "./index.html#important-dates"
   Call for Papers: "/papers/"
   Workshops: "/workshops/"
