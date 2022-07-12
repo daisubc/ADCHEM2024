@@ -11,7 +11,7 @@ Pre-conference workshops will be offered at AdCONIP 2022. Please see the list be
 - [Workshop 1: Process Data Analytics and Network or Flowsheet Reconstruction](#workshop-1-process-data-analytics-and-network-or-flowsheet-reconstruction)
   + August 7th 2022 - 3PM to 7PM
 - [Workshop 2: Making reinforcement learning a practical technology for industrial control](#workshop-2-making-reinforcement-learning-a-practical-technology-for-industrial-control)
-  + August 7th 2022 - 8AM to 2PM
+  + August 7th 2022 - 8AM to 1PM
   + [See detailed workshop schedule]({% link RL_workshop.md %})
 
 # Workshop 1: Process Data Analytics and Network or Flowsheet Reconstruction
@@ -85,7 +85,7 @@ The main area of his current research is process and performance monitoring, sys
 ---
 
 # Workshop 2: Making reinforcement learning a practical technology for industrial control
-### August 7th 2022 - 8AM to 2PM
+### August 7th 2022 - 8AM to 1PM
 
 ## Overview
 Reinforcement learning (RL) is an emerging technology in process systems engineering (PSE) [1,2]. The objective in RL is to generate an optimal “policy” in a stochastic environment [3]. This general formulation makes RL appealing for both control and operational decision-making tasks, notably, without a system model [2]. Despite the enthusiasm surrounding RL, there are also reasons to be skeptical of its viability. For example, RL does not have strong stability or constraint satisfaction guarantees, and it is notoriously data-hungry. Recent work at the intersection of RL and PSE strives to mitigate these issues and ultimately make RL more reliable, scaleable, and interpretable [4–7]. This workshop aims to engage academics and industrial practitioners in both the machine learning and controls communities with a lively discussion on the challenges and opportunities surrounding real-world RL.
@@ -132,33 +132,33 @@ The expected audience is researchers, graduate students, and industrial practiti
 <img src="/assets/img/loewen.jpeg" style="float: left; padding: 0.5em; margin-right: 1.0em; width: 200px">
 
 **Philip D. Loewen** received the Ph.D. degree in mathematics from The University of British Columbia (UBC), for work on nonsmooth problems of dynamic optimization. After post-doctoral stays at the Centre de Recherches Mathematiques, Montreal, and the Department of Electrical Engineering, Imperial College, London, he returned to UBC as a faculty member in Mathematics in 1987. His research interests include optimal control, optimization, convex and nonsmooth analysis, and engineering applications.
-
+<br>
 ### Jay Lee, Korea Advanced Institute of Science and Technology, Korea, South Korea (jayhlee@kaist.ac.kr)
 <img src="/assets/img/jay.jpeg" style="float: left; padding: 0.5em; margin-right: 1.0em; width:200px">
 
 **Jay H. Lee** obtained his B.S. degree in Chemical Engineering from the University of Washington, Seattle, in 1986, and his Ph.D. degree in Chemical Engineering from California Institute of Technology, Pasadena, in 1991. From 1991 to 1998, he was with the Department of Chemical Engineering at Auburn University, AL, as an Assistant Professor and an Associate Professor. From 1998-2000, he was with School of Chemical Engineering at Purdue University, West Lafayette, and then with the School of Chemical Engineering at Georgia Institute of Technology, Atlanta from 2000-2010. Since 2010, he is with the Chemical and Biomolecular Engineering Department at Korea Advanced Institute of Science and Technology (KAIST), where he was the department head from 2010-2015. He is currently a Professor, Associate Vice President of International Office, and Director of Saudi Aramco-KAIST CO2 Management Center at KAIST. He published over 180 manuscripts in SCI journals with more than 13000 Google Scholar citations. His research interests are in the areas of system identification, state estimation, robust control, model predictive control, and reinforcement learning with applications to energy systems, biorefinery, and CO2 capture/conversion systems.
-
+<br>
 ### Biao Huang, University of Alberta, Canada (biao.huang@ualberta.ca)
 <img src="/assets/img/biao.png" style="float: left; padding: 0.5em; margin-right: 1.0em; width:200px">
 
 **Biao Huang** received his Ph.D. degree in Process Control from the University of Alberta, Canada, in 1997. He held MSc degree (1986) and BSc degree (1983) in Automatic Control from the Beijing University of Aeronautics and Astronautics. He is currently a Professor with the University of Alberta, IEEE Fellow, and Fellow of the Canadian Academy of Engineering. His research interest includes Process Control, Process Data Analytics and Machine Learning. He is the Editor-in-Chief for IFAC Journal Control Engineering Practice, Subject Editor for Journal of the Franklin Institute, and Associate Editor for Journal of Process Control.
-
+<br>
 ### Panagiotis Petsagkourakis, Illumina, England (ppetsag@gmail.com)
 <img src="/assets/img/panos.jpeg" style="float: left; padding: 0.5em; margin-right: 1.0em; width:200px">
 
 **Panos** received his chemical engineering degree (silver medal award- summa cum laude) from the National Technical University of Athens (Greece) in 2015. He then joined the University of Manchester and the School of Chemical Engineering and Analytical Science for to pursue his PhD degree in 2015. In February 2019, he joined University College London as a Research fellow for the EPSRC project on cognitive chemical manufacturing. He also joined Imperial College London as visiting researcher. Panos joined the L&SE Young Members Forum in 2019 as university representative.
-
+<br>
 ### Ehecatl Antonio del Rio Chanona, Imperial College London, England (a.del-rio-chanona@imperial.ac.uk)
 <img src="/assets/img/antonio.jpeg" style="float: left; padding: 0.5em; margin-right: 1.0em; width:200px">
 
 **Antonio del Rio Chanona** is head of the Optimisation and Machine Learning for Process Systems Engineering group at the Department of Chemical Engineering, Imperial College London. Antonio received his MEng from UNAM in Mexico, and his PhD from the University of Cambridge where he was awarded the Danckwerts-Pergamon Prize for the best doctoral thesis of his year. He received the EPSRC fellowship to adopt automation and intelligent technologies into bioprocess scaleup and industrialization and has received awards from the International Federation of Automatic Control (IFAC), and the Institution of Chemical Engineers (IChemE) in recognition for research in areas of process systems engineering, industrialisation of bioprocesses, and adoption of intelligent and autonomous learning algorithms to chemical engineering. 
 Antonio’s main research interests include Reinforcement Learning, Data-Driven Optimization, Control and Hybrid Modelling.
-
+<br>
 ### Mario Zanon, IMT School for Advanced Studies Lucca, Italy (mario.zanon@imtlucca.it)
 <img src="/assets/img/mario.png" style="float: left; padding: 0.5em; margin-right: 1.0em; width: 200px">
 
 **Mario Zanon** received his Master's degree in Mechatronics from the University of Trento, and the Diplôme d'Ingénieur from the Ecole Centrale Paris, in 2010. After research stays at the KU Leuven, University of Bayreuth, Chalmers University, and the University of Freiburg he received the Ph.D. degree in Electrical Engineering from the KU Leuven in November 2015. He held a Post-Doc researcher position at Chalmers University until the end of 2017, after which he became Assistant Professor and, from 2021, Associate Professor at the IMT School for Advanced Studies Lucca. His research interests include reinforcement learning, numerical methods for optimization, economic MPC, optimal control and estimation of nonlinear dynamical systems in particular for aerospace and automotive applications.
-
+<br>
 ### Sebastien Gros, Norwegian University of Science and Technology, Norway (sebastien.gros@ntnu.no)
 <img src="/assets/img/gros.jpg" style="float: left; padding: 0.5em; margin-right: 1.0em; width: 200px">
 
