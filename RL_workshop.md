@@ -98,7 +98,7 @@ Research Results</h2>
 
 <img src="/assets/img/panos.jpeg" style="float: left; padding: 0.5em; margin-right: 1.0em; width:200px">
 
-**Panagiotis (Panos) Petsagkourakis1** received his chemical engineering degree (silver medal award- summa cum laude) from the National Technical University of Athens (Greece) in 2015. He then joined the University of Manchester and the School of Chemical Engineering and Analytical Science for to pursue his PhD degree in 2015. In February 2019, he joined University College London as a Research fellow for the EPSRC project on cognitive chemical manufacturing. He also joined Imperial College London as visiting researcher. Panos joined the L&SE Young Members Forum in 2019 as university representative.
+**Panagiotis (Panos) Petsagkourakis** received his chemical engineering degree (silver medal award- summa cum laude) from the National Technical University of Athens (Greece) in 2015. He then joined the University of Manchester and the School of Chemical Engineering and Analytical Science for to pursue his PhD degree in 2015. In February 2019, he joined University College London as a Research fellow for the EPSRC project on cognitive chemical manufacturing. He also joined Imperial College London as visiting researcher. Panos joined the L&SE Young Members Forum in 2019 as university representative.
 
 <br>
 
