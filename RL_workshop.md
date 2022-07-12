@@ -7,6 +7,23 @@ show-avatar: False
 
 Note: **All times in PST (Pacific Time)**.
 
+# Time: 8:00-9:00
+
+<div class="text-center">
+<h2>Foundations of Reinforcement Learning</h2>
+<b>Philip D. Loewen</b>
+<br>
+<i>loew@math.ubc.ca</i>
+<br>
+The University of British Columbia, Canada
+</div>
+
+**Abstract:** Reinforcement learning is a modern framework for tackling the central challenge of control systems design: given some dynamic environment in which choices are possible, build a mapping from observations to actions that guarantees desirable behaviour. This talk will survey the mathematical and algorithmic fundamentals of RL and indicate their counterparts in control systems design. The focus will be on "what" and "how" rather than "why". Thus there will be more equations than videos, all carefully selected to provide a smooth on-ramp for non-specialists to understand and appreciate the contributions described in the later presentations of the workshop.
+
+<img src="/assets/img/loewen.jpeg" style="float: left; padding: 0.5em; margin-right: 1.0em; width: 200px">
+
+**Philip D. Loewen** received the Ph.D. degree in mathematics from The University of British Columbia (UBC), for work on nonsmooth problems of dynamic optimization. After post-doctoral stays at the Centre de Recherches Mathematiques, Montreal, and the Department of Electrical Engineering, Imperial College, London, he returned to UBC as a faculty member in Mathematics in 1987. His research interests include optimal control, optimization, convex and nonsmooth analysis, and engineering applications.
+
 # Time: 9:15–10:00
 
 <div class="text-center">
