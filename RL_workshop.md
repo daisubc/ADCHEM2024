@@ -24,6 +24,8 @@ The University of British Columbia, Canada
 
 **Philip D. Loewen** received the Ph.D. degree in mathematics from The University of British Columbia (UBC), for work on nonsmooth problems of dynamic optimization. After post-doctoral stays at the Centre de Recherches Mathematiques, Montreal, and the Department of Electrical Engineering, Imperial College, London, he returned to UBC as a faculty member in Mathematics in 1987. His research interests include optimal control, optimization, convex and nonsmooth analysis, and engineering applications.
 
+<br>
+
 # Time: 9:15–10:00
 
 <div class="text-center">
@@ -49,6 +51,8 @@ DRL technology will be assessed with respect to each requirement, exposing exist
 
 **Thomas A. (Tom) Badgwell** is the Chief Technology Officer at Collaborative Systems Integration, an Austin-based startup providing systems integration services and software products for Open Process Automation (O-PAS) based systems. He earned a BS degree from Rice University and MS and PhD degrees from the University of Texas at Austin, all in Chemical Engineering, and he is registered as a Professional Engineer in Texas. Tom’s career has focused on modeling, optimization, and control of chemical processes, with past positions at Setpoint, Fisher/Rosemount, Rice University, Aspen Technology, and ExxonMobil. He is a Fellow of the American Institute of Chemical Engineers (AIChE) and a past Director of the Computing and Systems Technology (CAST) Division, from which he received the Computing Practice Award in 2013. He has served as an Associate Editor for the Journal of Process Control and as a Trustee of the Computer Aids in Chemical Engineering (CACHE) Corporation.
 
+<br>
+
 # Time: 10:00 – 10:45
 
 <div class="text-center">
@@ -68,11 +72,13 @@ Research Results</h2>
 
 **Sebastien Gros** received his Ph.D degree from EPFL, Switzerland, in 2007. After a journey by bicycle from Switzerland to the Everest base camp in full autonomy, he joined a R&D group hosted at Strathclyde University focusing on wind turbine control. In 2011, he joined the university of KU Leuven, where his main research focus was on optimal control and fast NMPC for complex mechanical systems. He joined the Department of Signals and Systems at Chalmers University of Technology, Göteborg in 2013, where he became associate Prof. in 2017. He is now full Prof. and Head of the department of Engineering Cybernetic, NTNU, Norway and affiliate Prof. at Chalmers. His main research interests includes numerical methods, real-time optimal control, reinforcement learning, stochastic optimal control, Markov Decision Processes, and the optimal control of energy-related applications. He is currently focusing on the optimization of smart houses with ambitious and unique experiments.
 
+<br>
+
 <img src="/assets/img/mario.png" style="float: left; padding: 0.5em; margin-right: 1.0em; width: 200px">
 
 **Mario Zanon** received his Master's degree in Mechatronics from the University of Trento, and the Diplôme d'Ingénieur from the Ecole Centrale Paris, in 2010. After research stays at the KU Leuven, University of Bayreuth, Chalmers University, and the University of Freiburg he received the Ph.D. degree in Electrical Engineering from the KU Leuven in November 2015. He held a Post-Doc researcher position at Chalmers University until the end of 2017, after which he became Assistant Professor and, from 2021, Associate Professor at the IMT School for Advanced Studies Lucca. His research interests include reinforcement learning, numerical methods for optimization, economic MPC, optimal control and estimation of nonlinear dynamical systems in particular for aerospace and automotive applications.
 
-
+<br>
 
 # Time: 10:45 – 11:30
 
@@ -92,10 +98,14 @@ Research Results</h2>
 
 **Panagiotis (Panos) Petsagkourakis1** received his chemical engineering degree (silver medal award- summa cum laude) from the National Technical University of Athens (Greece) in 2015. He then joined the University of Manchester and the School of Chemical Engineering and Analytical Science for to pursue his PhD degree in 2015. In February 2019, he joined University College London as a Research fellow for the EPSRC project on cognitive chemical manufacturing. He also joined Imperial College London as visiting researcher. Panos joined the L&SE Young Members Forum in 2019 as university representative.
 
+<br>
+
 <img src="/assets/img/antonio.jpeg" style="float: left; padding: 0.5em; margin-right: 1.0em; width:200px">
 
 **Ehecatl Antonio del Rio Chanona** is head of the Optimisation and Machine Learning for Process Systems Engineering group at the Department of Chemical Engineering, Imperial College London. Antonio received his MEng from UNAM in Mexico, and his PhD from the University of Cambridge where he was awarded the Danckwerts-Pergamon Prize for the best doctoral thesis of his year. He received the EPSRC fellowship to adopt automation and intelligent technologies into bioprocess scaleup and industrialization and has received awards from the International Federation of Automatic Control (IFAC), and the Institution of Chemical Engineers (IChemE) in recognition for research in areas of process systems engineering, industrialisation of bioprocesses, and adoption of intelligent and autonomous learning algorithms to chemical engineering. 
 Antonio’s main research interests include Reinforcement Learning, Data-Driven Optimization, Control and Hybrid Modelling.
+
+<br>
 
 # Time: 11:30 - 12:15
 
@@ -113,6 +123,8 @@ University of Alberta, Canada
 <img src="/assets/img/biao.png" style="float: left; padding: 0.5em; margin-right: 1.0em; width:200px">
 
 **Biao Huang** received his Ph.D. degree in Process Control from the University of Alberta, Canada, in 1997. He held MSc degree (1986) and BSc degree (1983) in Automatic Control from the Beijing University of Aeronautics and Astronautics. He is currently a Professor with the University of Alberta, IEEE Fellow, and Fellow of the Canadian Academy of Engineering. His research interest includes Process Control, Process Data Analytics and Machine Learning. He is the Editor-in-Chief for IFAC Journal Control Engineering Practice, Subject Editor for Journal of the Franklin Institute, and Associate Editor for Journal of Process Control.
+
+<br>
 
 # Time: 12:15 - 13:00
 
