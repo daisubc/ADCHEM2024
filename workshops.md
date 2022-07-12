@@ -117,10 +117,6 @@ The following topics will be discussed in this workshop.
 
 4. Conclusion & Panel Discussion
 
-- Items (1) and (2) will be 2 presentations roughly 45 min–1 hr long
-- Item (3) will cover 5 presentations lasting roughly 30 min–45 min.
-- Due to the hybrid format and some speakers presenting remotely, we have not yet assigned time slots. This will be a daylong workshop with breaks for coffee and lunch.
-
 ## Schedule
 A detailed schedule is available in [this page]({% link RL_workshop.md %}).
 
@@ -135,9 +131,7 @@ The expected audience is researchers, graduate students, and industrial practiti
 ### Philip Loewen, University of British Columbia, Canada (loew@math.ubc.ca)
 <img src="/assets/img/loewen.jpeg" style="float: left; padding: 0.5em; margin-right: 1.0em; width: 200px">
 
-**Philip D. Loewen** received the Ph.D. degree in mathematics from The University of British Columbia (UBC), Vancouver, BC, Canada. He was involved in post-doctoral research with the Centre de Recherches Mathematiques, Montreal, QC, Canada, and the Electrical Engineering Department, Imperial College London, London, U.K. He returned to UBC in 1987, where he currently serves as a Professor of Mathematics. His current research interests include optimal control, optimization, convex and nonsmooth analysis, and engineering applications.
-
-
+**Philip D. Loewen** received the Ph.D. degree in mathematics from The University of British Columbia (UBC), for work on nonsmooth problems of dynamic optimization. After post-doctoral stays at the Centre de Recherches Mathematiques, Montreal, and the Department of Electrical Engineering, Imperial College, London, he returned to UBC as a faculty member in Mathematics in 1987. His research interests include optimal control, optimization, convex and nonsmooth analysis, and engineering applications.
 
 ### Jay Lee, Korea Advanced Institute of Science and Technology, Korea, South Korea (jayhlee@kaist.ac.kr)
 <img src="/assets/img/jay.jpeg" style="float: left; padding: 0.5em; margin-right: 1.0em; width:200px">
@@ -183,7 +177,7 @@ Antonio’s main research interests include Reinforcement Learning, Data-Driven 
 
 - [4] Panagiotis Petsagkourakis, Ilya Orson Sandoval, Eric Bradford, Dongda Zhang, and Ehecatl Antoniodel Rio-Chanona. Reinforcement learning for batch bioprocess optimization. Computers & Chemical Engineering, 133:106649, 2020.
 
-- [5] Mario Zanon and S ́ebastien Gros. Safe reinforcement learning using robust mpc. IEEE Transactions on Automatic Control, 66(8):3638–3652, 2020.
+- [5] Mario Zanon and Sébastien Gros. Safe reinforcement learning using robust mpc. IEEE Transactions on Automatic Control, 66(8):3638–3652, 2020.
 
 - [6] Haeun Yoo, Boeun Kim, Jong Woo Kim, and Jay H. Lee. Reinforcement learning based optimal control of batch processes using Monte-Carlo deep deterministic policy gradient with phase segmentation. Computers & Chemical Engineering, 144:107133, 2021. ISSN 00981354. doi: 10.1016/j.compchemeng.
 2020.107133.
