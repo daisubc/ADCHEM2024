@@ -18,7 +18,7 @@ Note: **All times in PST (Pacific Time)**.
 The University of British Columbia, Canada
 </div>
 
-**Abstract:** Reinforcement learning is a modern framework for tackling the central challenge of control systems design: given some dynamic environment in which choices are possible, build a mapping from observations to actions that guarantees desirable behaviour. This talk will survey the mathematical and algorithmic fundamentals of RL and indicate their counterparts in control systems design. The focus will be on "what" and "how" rather than "why". Thus there will be more equations than videos, all carefully selected to provide a smooth on-ramp for non-specialists to understand and appreciate the contributions described in the later presentations of the workshop.
+**Abstract:** Reinforcement Learning is a modern framework that addresses the central challenge of control systems design: given some dynamic environment in which choices are possible, build a mapping from observations to actions that guarantees desirable behaviour. This talk will survey the mathematical and algorithmic fundamentals of RL and indicate their counterparts in control systems design. The focus will be on "what" and "how" rather than "why". Thus there will be more equations than videos, all carefully selected to provide a smooth on-ramp for non-specialists to understand and appreciate the contributions described in the later presentations of the workshop.
 
 <img src="/assets/img/loewen.jpeg" style="float: left; padding: 0.5em; margin-right: 1.0em; width: 200px">
 
