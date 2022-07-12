@@ -7,7 +7,7 @@ show-avatar: False
 
 Note: **All times in PST (Pacific Time)**.
 
-# Time: 8:00-8:55
+# Talk: 8:00-8:55
 
 <div class="text-center">
 <h2>Foundations of Reinforcement Learning</h2>
@@ -26,9 +26,8 @@ The University of British Columbia, Canada
 
 <br>
 
-(10 minute break)
-
-# Time: 9:05–9:50
+# Break: 8:55 - 9:05
+# Talk: 9:05–9:50
 
 <div class="text-center">
 <h2>Deep reinforcement learning for industrial process control applications — a practitioner’s perspective on the current state and future prospects</h2>
@@ -55,7 +54,7 @@ DRL technology will be assessed with respect to each requirement, exposing exist
 
 <br>
 
-# Time: 9:50 – 10:35
+# Talk: 9:50 – 10:35
 
 <div class="text-center">
 <h2>Combining Reinforcement Learning and Model Predictive Control: Fundamentals and Recent
@@ -82,9 +81,8 @@ Research Results</h2>
 
 <br>
 
-(10 minute break)
-
-# Time: 10:45 – 11:30
+# Break: 10:35 - 10:45
+# Talk: 10:45 – 11:30
 
 <div class="text-center">
 <h2>Recent advances and applications on reinforcement learning: from constraints to supply chains</h2>
@@ -111,7 +109,7 @@ Antonio’s main research interests include Reinforcement Learning, Data-Driven 
 
 <br>
 
-# Time: 11:30 - 12:15
+# Talk: 11:30 - 12:15
 
 <div class="text-center">
 <h2>RL for autonomous tuning of advanced controllers subject to constraints</h2>
@@ -130,7 +128,7 @@ University of Alberta, Canada
 
 <br>
 
-# Time: 12:15 - 13:00
+# Talk: 12:15 - 13:00
 
 <div class="text-center">
 <h2>Learning and Model Predictive Control: Similarities, Differences and Paths Forward</h2>
