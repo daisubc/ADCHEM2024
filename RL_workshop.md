@@ -7,7 +7,7 @@ show-avatar: False
 
 Note: **All times in PST (Pacific Time)**.
 
-# Time: 8:00-9:00
+# Time: 8:00-8:55
 
 <div class="text-center">
 <h2>Foundations of Reinforcement Learning</h2>
@@ -26,7 +26,9 @@ The University of British Columbia, Canada
 
 <br>
 
-# Time: 9:15–10:00
+(10 minute break)
+
+# Time: 9:05–9:50
 
 <div class="text-center">
 <h2>Deep reinforcement learning for industrial process control applications — a practitioner’s perspective on the current state and future prospects</h2>
@@ -53,7 +55,7 @@ DRL technology will be assessed with respect to each requirement, exposing exist
 
 <br>
 
-# Time: 10:00 – 10:45
+# Time: 9:50 – 10:35
 
 <div class="text-center">
 <h2>Combining Reinforcement Learning and Model Predictive Control: Fundamentals and Recent
@@ -79,6 +81,8 @@ Research Results</h2>
 **Mario Zanon** received his Master's degree in Mechatronics from the University of Trento, and the Diplôme d'Ingénieur from the Ecole Centrale Paris, in 2010. After research stays at the KU Leuven, University of Bayreuth, Chalmers University, and the University of Freiburg he received the Ph.D. degree in Electrical Engineering from the KU Leuven in November 2015. He held a Post-Doc researcher position at Chalmers University until the end of 2017, after which he became Assistant Professor and, from 2021, Associate Professor at the IMT School for Advanced Studies Lucca. His research interests include reinforcement learning, numerical methods for optimization, economic MPC, optimal control and estimation of nonlinear dynamical systems in particular for aerospace and automotive applications.
 
 <br>
+
+(10 minute break)
 
 # Time: 10:45 – 11:30
 
