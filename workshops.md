@@ -115,8 +115,6 @@ The following topics will be discussed in this workshop.
   + Controller architectures and system integration
   + Other topics generally geared towards the challenges and opportunities in RL for process systems engineering
 
-4. Conclusion & Panel Discussion
-
 ## Schedule
 A detailed schedule is available in [this page]({% link RL_workshop.md %}).
 
