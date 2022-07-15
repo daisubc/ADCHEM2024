@@ -9,13 +9,13 @@ show-avatar: False
 Pre-conference workshops will be offered at AdCONIP 2022. Please see the list below.
 
 - [Workshop 1: Process Data Analytics and Network or Flowsheet Reconstruction](#workshop-1-process-data-analytics-and-network-or-flowsheet-reconstruction)
-  + August 7th 2022 - 3PM to 7PM
+  + August 7th 2022 - 2PM to 6:30PM
 - [Workshop 2: Making reinforcement learning a practical technology for industrial control](#workshop-2-making-reinforcement-learning-a-practical-technology-for-industrial-control)
   + August 7th 2022 - 8AM to 1PM
   + [See detailed workshop schedule]({% link RL_workshop.md %})
 
 # Workshop 1: Process Data Analytics and Network or Flowsheet Reconstruction
-### August 7th 2022 - 3PM to 7PM
+### August 7th 2022 - 2PM to 6:30PM
 
 ## Overview
 The following topics will be discussed in this workshop. Each topic will be accompanied by one or more industrial case study to convey the utilitarian value of the learning, discovery and diagnosis from process data.
@@ -55,13 +55,13 @@ The intended audience for this workshop would be industrial practitioners of con
 <!-- ## Course Schedule
 **Time:** 4.5 hours (half day) on **7th August 2022**.
 
-- **8:00AM** Registration and introduction of speakers and participants
-- **8:10AM** Introduction to process data analytics (SLS)
-- **9:15AM** Coffee break
-- **9:30AM** Alarm data analytics (SLS)
-- **10:00AM** Reconstructing conservation networks from data (SN)
-- **11:15AM** Causal discovery and network reconstruction from data (AKT)
-- **12:30PM** Questions + General discussion
+- **2:00PM** Registration and introduction of speakers and participants
+- **2:10PM** Introduction to process data analytics (SLS)
+- **3:15PM** Coffee break
+- **3:30PM** Alarm data analytics (SLS)
+- **4:00PM** Reconstructing conservation networks from data (SN)
+- **5:15PM** Causal discovery and network reconstruction from data (AKT)
+- **6:30PM** Questions + General discussion
  -->
 
 ## Speakers
