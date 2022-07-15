@@ -9,8 +9,8 @@ show-avatar: False
 
 ## Day 1: August 7th (Sunday)
 
-| 8:00AM-2:00PM               | Workshop 2                 | Making reinforcement learning a practical technology for industrial control                                                                                         | Big Room |
-| 3:00PM-7:00PM               | Workshop 1                 | Process Data Analytics and Network or Flowsheet Reconstruction                                                                                                      | Big Room |
+| 8:00AM-1:00PM               | Workshop 2                 | Making reinforcement learning a practical technology for industrial control                                                                                         | Big Room |
+| 2:00PM-6:30PM               | Workshop 1                 | Process Data Analytics and Network or Flowsheet Reconstruction                                                                                                      | Big Room |
 | 2:00PM-7:30PM               | Registration               |                                                                                                                                                                     | Foyer    |
 | 7:30PM-9:30PM               | Reception                  | Welcome Reception                                                                                                                                                   | TBA      |
 
