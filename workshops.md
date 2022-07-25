@@ -52,7 +52,7 @@ Basic knowledge of statistics and linear algebra
 ## Target audience
 The intended audience for this workshop would be industrial practitioners of control including vendors working in the area of on-line data logging and archiving, graduate students with interests in statistical learning and data science and academics.
 
-<!-- ## Course Schedule
+## Course Schedule
 **Time:** 4.5 hours (half day) on **7th August 2022**.
 
 - **2:00PM** Registration and introduction of speakers and participants
@@ -62,7 +62,7 @@ The intended audience for this workshop would be industrial practitioners of con
 - **4:00PM** Reconstructing conservation networks from data (SN)
 - **5:15PM** Causal discovery and network reconstruction from data (AKT)
 - **6:30PM** Questions + General discussion
- -->
+
 
 ## Speakers
 

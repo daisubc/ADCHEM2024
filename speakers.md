@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Speakers
-subtitle: AdCONIP 2022 Speakers
+title: Plenary Speakers
+subtitle: AdCONIP 2022 Plenary Speakers
 show-avatar: False
+---
+
+#### Navigation: [Plenary Speakers]({% link speakers.md %}) | [Keynote Speakers]({% link keynote_speakers.md %})
+
 ---
 
 # Plenary Speaker - Prof. Sarah Spurgeon
