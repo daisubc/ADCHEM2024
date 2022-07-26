@@ -956,3 +956,8 @@ pre {
     z-index:9999; 
     border-radius:0px
 }
+
+.table-wrapper {
+  overflow-x: scroll;
+  font-size: 0.75rem;
+}

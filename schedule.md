@@ -5,8 +5,17 @@ subtitle: Final schedule (Updated July 26th 2022)
 show-avatar: False
 ---
 
+### Navigation
+[Day 1: August 7th (Sunday)](#day-1-august-7th-sunday) | [Day 2: August 8th (Monday)](#day-2-august-8th-monday) | [Day 3: August 9th (Tuesday)](#day-3-august-9th-tuesday)
+
+Download [Excel]({% link assets/docs/schedule.xlsx %}) or [PDF]({% link assets/docs/schedule.pdf %}) copy of the agenda.
+
+
+---
 
 ## Day 1: August 7th (Sunday)
+
+<div class="table-wrapper" markdown="block">
 
 | Time          | Type         | Title                                                                       | Place    | Chair                   | Co-Chair                             | Presentation Mode | Presenter |
 | ------------- | ------------ | --------------------------------------------------------------------------- | -------- | ----------------------- | ------------------------------------ | ----------------- | --------- |
@@ -15,8 +24,11 @@ show-avatar: False
 | 2:00PM-7:30PM | Registration |                                                                             | Foyer    |                         |                                      |                   |           |
 | 7:30PM-9:30PM | Reception    | Welcome Reception                                                           | TBA      |                         |                                      |                   |           |
 
+</div>
 
 ## Day 2: August 8th (Monday)
+
+<div class="table-wrapper" markdown="block">
 
 | Time            | Type                       | Title                                                                                                                                               | Place    | Chair                                                  | Co-Chair                                                  | Presentation Mode | Presenter                  |
 | --------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | --------------------------------------------------------- | ----------------- | -------------------------- |
@@ -74,8 +86,11 @@ show-avatar: False
 | 5:00PM-5:20PM   | Applications I             | Data Augmentation for Industrial Multivariate Time Series Via a Spatial and Frequency Domain Knowledge GAN                                          | Room C   | Kalpesh (In-Person)                                    |                                                           | Recorded Video    | Jui Chien Lin              |
 | 7:00PM-9:00PM   | Banquet                    | Conference Banquet                                                                                                                                  | TBA      |                                                        |                                                           |                   |                            |
 
+</div>
 
 ## Day 3: August 9th (Tuesday)
+
+<div class="table-wrapper" markdown="block">
 
 | Time            | Type                   | Title                                                                                                                                                                | Place    | Chair                                | Co-Chair                             | Presentation Mode        | Presenter                     |
 | --------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------ | ------------------------------------ | ------------------------ | ----------------------------- |
@@ -110,3 +125,5 @@ show-avatar: False
 | 1:20PM-2:30PM   | Lunch                  | Lunch                                                                                                                                                                |          |                                      |                                      |                          |                               |
 | 2:30PM-3:30PM   | Plenary 3              | The Role of Process Systems Engineering (PSE) on the Path to Carbon Neutral Chemical Process Industry by Jay Lee                                                     | Big Room | Brent Young (In-Person)              | Lakshminarayanan Samavedham (Online) | In-Person                | Jay Lee                       |
 | 3:30PM-4:00PM   | Closing Ceremony       | Closing Ceremony                                                                                                                                                     | Big Room | Bhushan Gopaluni (In-Person)         | Jie Bao (Online)                     |                          |                               |
+
+</div>
