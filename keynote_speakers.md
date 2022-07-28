@@ -48,6 +48,11 @@ We are currently in the midst of a fourth industrial revolution (Industry 4.0 [1
 - [11] TA Badgwell, KH Liu, NA Subrahmanya, WD Liu, MH Kovalski, “Adaptive PID Controller Tuning via Deep Reinforcement Learning”, U.S. patent 1095073, granted February 9, 2021. 
 - [12] RD Bartusiak, S Bitar, DL DeBari, BG Houk, D Stevens, B Fitzpatrick, P Sloan, “Open Process Automation: A Standards-Based, Open, Secure, Interoperable Process Control Architecture”, Control Engineering Practice 121, 105034, (2022).
 
+## Biography
+**Thomas A. (Tom) Badgwell Ph.D.,** is Chief Technology Officer with Collaborative Systems Integration and lives in Clinton, New Jersey.  He received a BS degree from Rice University and MS and PhD degrees from the University of Texas at Austin, all in Chemical Engineering.  Tom’s career has focused on modeling, optimization, and control of chemical processes, with past positions at SETPOINT, Fisher/Rosemount, Rice University, Aspen Technology and ExxonMobil.  He is a fellow of AIChE and a past Director of the CAST division, from which he received the Computing Practice Award in 2013.  He has served as an Associate Editor for the Journal of Process Control, and as an Industrial Trustee of the CACHE Corporation.  He was inducted into Control Magazine’s Automation Hall of Fame in 2022.
+
+**Don Bartusiak** is currently President of Collaborative Systems Integration and Co-chair of The Open Process Automation Forum of The Open Group. In October 2020, Don retired as Chief Engineer, Process Control for ExxonMobil Research and Engineering with 33 years of experience. At ExxonMobil, he implemented real-time artificial intelligence, linear and nonlinear model predictive control, and real-time optimization applications. From 1977 to 1984, he was a Research Engineer for Bethlehem Steel. Don received a BS from the University of Pennsylvania and MS and PhD degrees from Lehigh University. He has published 10 journal articles and is co-inventor on 5 patents.
+
 # Keynote 3 - Prof. Manabu Kano
 
 <div class="text-center">
@@ -58,6 +63,11 @@ Department of Systems Engineering, Kyoto University, Japan
 </div>
 
 **Abstract:** We have a dream that one day epileptic patients will be able to live their lives without worrying about seizures. If seizures cannot be controlled by medication, it is necessary to predict their onset in advance to at least prevent accidents that may lead to death or injury. We have developed an epileptic seizure prediction system, consisting of a wearable electrocardiograph (ECG) and a smartphone. This system performs heart rate variability (HRV) analysis based on R-R interval (RRI) data and fault detection, e.g., multivariate statistical process control (MSPC), which is familiar to our community. HRV is a noninvasive indicator of autonomic nervous system activities, and it is useful for developing various medical and healthcare services. In this presentation, I will introduce several services that we have developed so far, including epileptic seizure prediction, sleep apnea syndrome (SAS) screening, and driver’s drowsiness detection. In addition, I would like to point out opportunities and challenges in the medical/healthcare field, which seem interesting to and can be solved by process control researchers and engineers.
+
+## Biography
+Dr. Manabu Kano is a professor of the Department of Systems Science, Kyoto University. He received BS, MS, and PhD degrees from the Department of Chemical Engineering, Kyoto University, in 1992, 1994, and 1999. He has been working at Kyoto University since 1994. From 1999 to 2000, he was a Visiting Scholar with Ohio State University, U.S. His research interest has focused on applying systems approach and data analytics to various problems related to manufacturing processes and medical and healthcare services. He started a medical venture company ‘Quadlytics Inc.’ in 2018.
+ 
+Dr. Kano was a recipient of many awards, including the Best Paper Awards and the Technology Awards from the Society of Instrument and Control Engineers (SICE), the Sawamura Paper Award from the Iron and Steel Institute of Japan (ISIJ), and the Outstanding Paper Awards of J. Chem. Eng. Japan and the Technology Award from the Society of Chemical Engineers, Japan (SCEJ).
 
 # Keynote 4 - Rohit Patwardhan
 
