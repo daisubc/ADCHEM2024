@@ -8,6 +8,9 @@ show-avatar: False
 ### Navigation
 [Day 1: August 7th (Sunday)](#day-1-august-7th-sunday) | [Day 2: August 8th (Monday)](#day-2-august-8th-monday) | [Day 3: August 9th (Tuesday)](#day-3-august-9th-tuesday)
 
+The conference venue is the AMS Student Nest at the University of British Columbia, Vancouver, BC. 
+**Address:** 6133 University Blvd, Vancouver, BC V6T 1Z1.
+
 Download [Excel]({% link assets/docs/schedule.xlsx %}) or [PDF]({% link assets/docs/schedule.pdf %}) copy of the agenda.
 
 
