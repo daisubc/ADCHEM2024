@@ -43,11 +43,8 @@ Symposium details and dates:
 {% include important_dates.html %}
 
 # Conference Location
-The conference venue is the AMS Student Nest at the University of British Columbia, Vancouver, BC.
 
-**Address:** 6133 University Blvd, Vancouver, BC V6T 1Z1.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2603.5161867574175!2d-123.25221438461551!3d49.26661547983045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54867398c216945b%3A0xe9bbdd7328c09b21!2sAMS%20Student%20Nest!5e0!3m2!1sen!2sca!4v1658987232000!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{% include location.html %}
 
 # Registration Fees
 
