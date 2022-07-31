@@ -11,6 +11,9 @@ show-avatar: False
 
 <div class="text-center">
   <a class="btn btn-primary btn-lg" href="http://controls.papercept.net/registration/" role="button">Register Now</a>
+
+  <a class="btn btn-warning btn-lg" href="{% link schedule.md %}" role="button">See Schedule</a>
+
 </div>
 
 # Overview
@@ -53,9 +56,9 @@ Symposium details and dates:
 # Events
 ## Conference Banquet
 
-- Date/Time: August 8th 2022 - 6.30PM - 10.00PM
-- Location: UBC Sage Restaurant
-- See location on [Google Maps](https://www.google.ca/maps/place/Sage/@49.2686377,-123.2576719,19z/data=!4m12!1m6!3m5!1s0x548672b15bef1c83:0x4272b6b37e601a30!2sSage!8m2!3d49.2686687!4d-123.2572729!3m4!1s0x548672b15bef1c83:0x4272b6b37e601a30!8m2!3d49.2686687!4d-123.2572729)
+- **Date/Time:** August 8th 2022 - 6.30PM - 10.00PM
+- **Location:** UBC Sage Restaurant
+- Sage is a short 10-minute walk from the AMS Student Nest. See location on [Google Maps](https://www.google.ca/maps/place/Sage/@49.2686377,-123.2576719,19z/data=!4m12!1m6!3m5!1s0x548672b15bef1c83:0x4272b6b37e601a30!2sSage!8m2!3d49.2686687!4d-123.2572729!3m4!1s0x548672b15bef1c83:0x4272b6b37e601a30!8m2!3d49.2686687!4d-123.2572729)
 
 > UBC’s elegant Sage restaurant offers fresh West Coast cuisine alongside impressive ocean views. Sage Restaurant is located west across flagpole plaza from the Chan Centre, inside the Leon and Thea Koerner University Centre.
 

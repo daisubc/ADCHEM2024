@@ -584,7 +584,7 @@ footer .footer-custom-content {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 5rem 0 2.5rem;
+  margin: 2rem 0 2.5rem;
   position: relative;
   color: {{ site.navbar-text-col | default: "#000000" }};
 }
@@ -666,7 +666,7 @@ footer .footer-custom-content {
 }
 @media (min-width: 768px) {
   .intro-header {
-    margin-top: 8.125rem;
+    margin-top: 5.125rem;
   }
   .intro-header.big-img {
     margin-top: 5.6875rem; /* Full navbar is small navbar + 20px padding on each side when expanded */
