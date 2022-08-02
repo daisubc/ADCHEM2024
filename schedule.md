@@ -14,7 +14,6 @@ show-avatar: False
 
 <!-- Download [Excel]({% link assets/docs/schedule.xlsx %}) or [PDF]({% link assets/docs/schedule.pdf %}) copy of the agenda. -->
 
-
 ---
 
 ## Day 1: August 7th (Sunday)

@@ -14,11 +14,12 @@ author: AdCONIP 2022
 navbar-links:
   Overview: "./index.html#overview"
   Schedule: "/schedule/"
-  Important Dates: "./index.html#important-dates"
+  # Important Dates: "./index.html#important-dates"
   Call for Papers: "/papers/"
   Workshops: "/workshops/"
-  Organizers: "/organizers/"
   Speakers: "/speakers/"
+  Organizers: "/organizers/"
+  Contact: "/contact/"
   ⧉ Registration: "http://controls.papercept.net/registration/"
 
 # --- Logo --- #

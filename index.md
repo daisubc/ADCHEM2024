@@ -101,8 +101,6 @@ For a list of on-campus accomodation options, please visit [https://visit.ubc.ca
 
 # Contact
 
-Inquiries about the symposium may be addressed to
+For questions and help during the conference, please see the [contact](/contact/) page.
 
 {% include contacts.html %}
-
-For more details, see the AdCONIP 2022 [Organizing Committee](./organizers/).
