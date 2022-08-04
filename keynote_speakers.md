@@ -51,7 +51,11 @@ We are currently in the midst of a fourth industrial revolution (Industry 4.0 [1
 ## Biography
 **Thomas A. (Tom) Badgwell Ph.D.,** is Chief Technology Officer with Collaborative Systems Integration and lives in Clinton, New Jersey.  He received a BS degree from Rice University and MS and PhD degrees from the University of Texas at Austin, all in Chemical Engineering.  Tom’s career has focused on modeling, optimization, and control of chemical processes, with past positions at SETPOINT, Fisher/Rosemount, Rice University, Aspen Technology and ExxonMobil.  He is a fellow of AIChE and a past Director of the CAST division, from which he received the Computing Practice Award in 2013.  He has served as an Associate Editor for the Journal of Process Control, and as an Industrial Trustee of the CACHE Corporation.  He was inducted into Control Magazine’s Automation Hall of Fame in 2022.
 
+- See full [biography]({% link /assets/docs/tom_badgwell.pdf %}).
+
 **Don Bartusiak** is currently President of Collaborative Systems Integration and Co-chair of The Open Process Automation Forum of The Open Group. In October 2020, Don retired as Chief Engineer, Process Control for ExxonMobil Research and Engineering with 33 years of experience. At ExxonMobil, he implemented real-time artificial intelligence, linear and nonlinear model predictive control, and real-time optimization applications. From 1977 to 1984, he was a Research Engineer for Bethlehem Steel. Don received a BS from the University of Pennsylvania and MS and PhD degrees from Lehigh University. He has published 10 journal articles and is co-inventor on 5 patents.
+
+- See full [biography]({% link /assets/docs/don_bartusiak.pdf %}).
 
 # Keynote 3 - Prof. Manabu Kano
 
