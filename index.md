@@ -54,11 +54,32 @@ Symposium details and dates:
 {% include registration.html %}
 
 # Events
+## Opening Reception
+- **Date/Time:** August 7th 2022 (Sunday) - 7.00PM
+- **Location:** UBC AMS Nest Rooftop Garden
+- The conference organizing team is pleased to invite you all to the reception on Sunday at 7 pm (right after the workshops). The reception will be held on the Rooftop Garden at the conference venue (6133 University Blvd, Vancouver, BC V6T 1Z1). There will be volunteers to help you find the place.
+
+> Our private Rooftop Garden is perfect for outdoor weddings and can be configured to host parties from 100 to 150 guests. The mountain views and privacy make for memorable special occasions. And on sun-drenched days, the rooftop cover offers ample shade from the sun and a cosy setting for you and your guests on beautiful summer evenings. Space rental includes tables, chair, set-up and tear-down.
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="mt-2 mb-2">
+      <a href="https://www.nestcatering.com/our-space/unique-venues/the-rooftop-garden/" target="_blank"><img src="./assets/img/roof_1.jpeg" alt="UBC hotels" style="width:100%"></a>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="mt-2 mb-2">
+      <a href="https://www.nestcatering.com/our-space/unique-venues/the-rooftop-garden/" target="_blank"><img src="./assets/img/roof_2.jpeg" alt="UBC hotels" style="width:100%"></a>
+    </div>
+  </div>  
+</div>
+
 ## Conference Banquet
 
-- **Date/Time:** August 8th 2022 - 6.30PM - 10.00PM
+- **Date/Time:** August 8th 2022 (Monday) - 6.00PM
 - **Location:** UBC Sage Restaurant
-- Sage is a short 10-minute walk from the AMS Student Nest. See location on [Google Maps](https://www.google.ca/maps/place/Sage/@49.2686377,-123.2576719,19z/data=!4m12!1m6!3m5!1s0x548672b15bef1c83:0x4272b6b37e601a30!2sSage!8m2!3d49.2686687!4d-123.2572729!3m4!1s0x548672b15bef1c83:0x4272b6b37e601a30!8m2!3d49.2686687!4d-123.2572729)
+- The Banquet is a ticketed event that will be held at Sage Bistro (6331 Crescent Rd, Vancouver, BC V6T 1Z1) on Monday at 6 pm. It is a 15 min walk through the campus from the conference venue. Drinks will start around 6 pm and the dinner will be served around 7 pm. If you have registered for the Banquet, please meet our volunteers at the conference venue to walk you to Sage Bistro after the sessions end on Monday.
+- See location on [Google Maps](https://www.google.ca/maps/place/Sage/@49.2686377,-123.2576719,19z/data=!4m12!1m6!3m5!1s0x548672b15bef1c83:0x4272b6b37e601a30!2sSage!8m2!3d49.2686687!4d-123.2572729!3m4!1s0x548672b15bef1c83:0x4272b6b37e601a30!8m2!3d49.2686687!4d-123.2572729)
 
 > UBC’s elegant Sage restaurant offers fresh West Coast cuisine alongside impressive ocean views. Sage Restaurant is located west across flagpole plaza from the Chan Centre, inside the Leon and Thea Koerner University Centre.
 
