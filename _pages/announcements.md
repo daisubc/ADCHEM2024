@@ -14,7 +14,7 @@ show-avatar: False
       <small>{{ a.date | date_to_long_string: "ordinal", "US" }}</small>
       <br>
       {% if a.link %}
-        <b><a href="{{a.link}}">{{ a.title }}</a></b>
+        <b><a href="{{ a.link }}">{{ a.title }}</a></b>
       {% else %}
         <b>{{ a.title }}</b>
       {% endif %}
