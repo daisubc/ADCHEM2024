@@ -26,7 +26,7 @@ These page snippets help us re-use the same content across multiple locations in
 
 Find and modify the Markdown file in the `_pages` folder. You may also see snippets from other pages.
 
-### Updating Announcements
+### Updating announcements
 
 1. Add your announcements in `_data/announcements.yml`
 
