@@ -4,13 +4,13 @@ author: ADCHEM 2024 Organizing Committee
 
 navbar-links:
   ADCHEM 2024: "./index.html#overview"
-  Schedule: "/schedule/"
+  Schedule: "/schedule"
   # Important Dates: "./index.html#important-dates"
-  Call for Papers: "/papers/"
-  Workshops: "/workshops/"
-  Speakers: "/speakers/"
+  Call for Papers: "/papers"
+  Workshops: "/workshops"
+  Speakers: "/speakers"
   # Organizers: "/organizers/"
-  Contact: "/contact/"
+  Contact: "/contact"
   ⧉ Registration: "http://controls.papercept.net/registration/"
 
 collections:
@@ -22,14 +22,14 @@ collections:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-campus.jpg"
+avatar: "./assets/img/avatar-campus.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/assets/img/sponsors/ifac.jpg"
+title-img: "./assets/img/sponsors/ifac.jpg"
 
 includes_dir: .
 
