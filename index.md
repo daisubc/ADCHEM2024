@@ -73,6 +73,6 @@ Symposium details and dates:
 
 # Contact
 
-For questions and help during the conference, please see the [contact](/contact/) page.
+For questions and help during the conference, please see the [contact](./contact) page.
 
 {% include /_info/contacts.html %}
