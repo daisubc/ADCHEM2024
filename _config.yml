@@ -15,7 +15,7 @@ navbar-links:
   Speakers: "/speakers"
   # Organizers: "/organizers/"
   Contact: "/contact"
-  ⧉ Registration: "http://controls.papercept.net/registration/"
+  # ⧉ Registration: "http://controls.papercept.net/registration/"
 
 collections:
   pages:
