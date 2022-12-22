@@ -6,15 +6,14 @@ url: https://dais.chbe.ubc.ca
 baseurl: /ADCHEM2024 # remove unless using subdomain in github pages
 
 navbar-links:
-  ADCHEM 2024: "/"
   Announcements: "/announcements"
   Schedule: "/schedule"
   # Important Dates: "./index.html#important-dates"
   Call for Papers: "/papers"
   Workshops: "/workshops"
   Speakers: "/speakers"
-  # Organizers: "/organizers/"
-  Contact: "/contact"
+  Organizers: "/organizers/"
+  # Contact: "/contact"
   # ⧉ Registration: "http://controls.papercept.net/registration/"
 
 collections:

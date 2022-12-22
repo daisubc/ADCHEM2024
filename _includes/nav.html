@@ -3,17 +3,18 @@
 <nav class="navbar navbar-expand-md navbar-light sticky-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% endif %}">
 
   {%- if site.title-img -%}
-    <a class="navbar-brand navbar-brand-logo" href="{{ '/' | relative_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img }}"/></a>
+    <a class="navbar-brand navbar-brand-logo" target="_blank" href="https://www.ifac-control.org/"><img alt="IFAC Logo" src="{{ site.title-img }}"/></a>
   {%- elsif site.title -%}
     <a class="navbar-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
   {%- endif -%}
+    <a class="navbar-brand navbar-brand-logo" href="{{ '/' | relative_url }}"><img alt="ADCHEM 2024 Logo" src="./assets/img/sponsors/adchem2024.png"/></a>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
   <div class="collapse navbar-collapse" id="main-navbar">
-    <ul class="navbar-nav ml-auto">
+    <ul class="navbar-nav ml-auto">     
       {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
           <li class="nav-item dropdown">

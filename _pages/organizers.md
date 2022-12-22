@@ -5,9 +5,27 @@ subtitle: ADCHEM 2024 Organizing Committee
 show-avatar: False
 ---
  
-## Organizing Committee
+## Organizers
 
 {% include /_info/contacts.html %}
+
+## Organizing Committee
+- Prof. Christopher Swartz, McMaster University
+- Prof. Kimberley McAuley, Queen’s University
+- Dr. Danielle Zyngier, Ingram Micro
+- Prof. Simant Upreti, Toronto Metropolitan University
+- Prof. Luis Ricardez-Sandoval, University of Waterloo
+- Prof. Biao Huang, University of Alverta
+- Prof. Vinay Prasad, University of Alberta
+- Prof. Bhushan Gopaluni, University of British Columbia
+- Prof. Carl Duchesne, Laval University
+- Prof. Syed Imtiaz, Memorial University
+- Ms. Sophie Felleiter, Queen’s University
+
+## International Program Committee
+- Prof. Dr.-Ing. Martin Monnigmann, Rhur-Universitat Bochum
+- Prof. Ali Mesbah, University of California Berkeley
+- Dr. Pablo Rolandi, Amgen
 
 <!-- 
 ## International Program Committee
