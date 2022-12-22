@@ -4,7 +4,15 @@ title: ADCHEM 2024 Schedule
 show-avatar: False
 ---
 
-TBD 
+The program is expected to follow the usual format for this Symposium series, including plenary and keynote presentations, contributed presentations, panel discussions, and poster sessions. Special topics workshops are also planned for Sunday July 14.
+
+|                             | **AM**                                    | **PM**                                                | **Evening**        |
+|-----------------------------|-------------------------------------------|-------------------------------------------------------|--------------------|
+| **Sunday**, <br>Jul 14th    |                                           | Workshops                                             | Welcome Reception  |
+| **Monday**, <br>Jul 15th    | Plenary session, Parallel sessions, Lunch | Keynote sessions, Parallel sessions                   |                    |
+| **Tuesday**, <br>Jul 16th   | Plenary session, Parallel sessions, Lunch | Keynote sessions, Parallel sessions                   | Conference Banquet |
+| **Wednesday**, <br>Jul 17th | Plenary session, Parallel sessions, Lunch | Keynote sessions, Parallel sessions, Closing Ceremony |                    |
+
 
 <!-- 
 ### Navigation
