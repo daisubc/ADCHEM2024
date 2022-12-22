@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Keynote Speakers
-subtitle: AdCONIP 2022 Keynote Speakers
+subtitle: ADCHEM 2024 Keynote Speakers
 show-avatar: False
 ---
-
-#### Navigation: [Plenary Speakers]({% link speakers.md %}) | [Keynote Speakers]({% link keynote_speakers.md %})
 
 ---
 

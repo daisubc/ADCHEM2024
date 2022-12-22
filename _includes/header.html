@@ -40,7 +40,7 @@
       {% if include.type == "post" %}
           <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
           {% if page.readtime %}
-            {% include readtime.html %}
+            {% include /_includes/readtime.html %}
           {% endif %}
       {% endif %}
         </div>
@@ -68,7 +68,7 @@
       {% if include.type == "post" %}
           <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
           {% if page.readtime %}
-            {% include readtime.html %}
+            {% include /_includes/readtime.html %}
           {% endif %}
       {% endif %}
         </div>

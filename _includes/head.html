@@ -22,13 +22,13 @@
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | default: 'Untitled' }} {{ site.title-separator | default: '-' }} {{ site.description }}" href="{{ '/feed.xml' | absolute_url }}">
 
-  {% include gtag.html %}
-  {% include gtm_head.html %}
-  {% include google_analytics.html %}
+  {% include /_includes/gtag.html %}
+  {% include /_includes/gtm_head.html %}
+  {% include /_includes/google_analytics.html %}
 
   {% if layout.common-ext-css %}
     {% for css in layout.common-ext-css %}
-      {% include ext-css.html css=css %}
+      {% include /_includes/ext-css.html css=css %}
     {% endfor %}
   {% endif %}
 
@@ -40,7 +40,7 @@
 
   {% if page.ext-css %}
     {% for css in page.ext-css %}
-      {% include ext-css.html css=css %}
+      {% include /_includes/ext-css.html css=css %}
     {% endfor %}
   {% endif %}
 
@@ -117,7 +117,7 @@
   {% endif %}
 
   {% if site.matomo %}
-  {% include matomo.html %}
+  {% include /_includes/matomo.html %}
   {% endif %}
 
   {% if page.comments and site.staticman.repository and site.staticman.branch %}

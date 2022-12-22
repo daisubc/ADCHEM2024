@@ -5,12 +5,15 @@ subtitle: Pre-conference workshops
 show-avatar: False
 ---
 
+TBD
+
+<!-- 
 # Workshops
 Pre-conference workshops will be offered at AdCONIP 2022. Please see the list below.
 
 - [Workshop 1: Making reinforcement learning a practical technology for industrial control](#workshop-1-making-reinforcement-learning-a-practical-technology-for-industrial-control)
   + August 7th 2022 - 8AM to 1PM
-  + [See detailed workshop schedule]({% link RL_workshop.md %})
+  + [See detailed workshop schedule]({% link _pages/RL_workshop.md %})
 - [Workshop 2: Process Data Analytics and Network or Flowsheet Reconstruction](#workshop-2-process-data-analytics-and-network-or-flowsheet-reconstruction)
   + August 7th 2022 - 2PM to 6:30PM
 
@@ -46,7 +49,7 @@ The following topics will be discussed in this workshop.
   + Other topics generally geared towards the challenges and opportunities in RL for process systems engineering
 
 ## Schedule
-A detailed schedule is available in [this page]({% link RL_workshop.md %}).
+A detailed schedule is available in [this page]({% link _pages/RL_workshop.md %}).
 
 ## Expected Audience
 The expected audience is researchers, graduate students, and industrial practitioners primarily with a controls background who are interested in practical aspects of deploying reinforcement learning techniques.
@@ -183,4 +186,4 @@ The main area of his current research is process and performance monitoring, sys
 **Arun K. Tangirala** holds a Bachelors in Chemical Engineering and a Doctoral degree in Process Control from the University of Alberta. He is a Professor at the Department of Chemical Engineering, IIT Madras. His research is concerned with multi-disciplinary problems of causality analysis, network reconstruction, control loop performance monitoring, multiscale identification, sparse optimization (compressive sensing)-based identification, systems biology and modern applications of data science. He is a recipient of several prestigious teaching & research awards and international fellowships. In addition, he has held visiting appointments at the University of Delaware, Technical University of Munich and Tsinghua University. He was awarded the Young Faculty Recognition Award in 2010 and the 2014 Institute Research and Development Award by IIT Madras. He is the author of a comprehensive classroom text on "Principles of System Identification: Theory and Practice". He is currently the Editor-in-Chief of the Journal of Institution of Engineers India: Series E (Chemical and Textile Engineering), an Associate Editor of the ASME Journal of Dynamics, Measurement and Control and an Associate Editor of Control Engineering Practice. He is also an active member of ASME, IEEE, AIChE, CSChE and is a faculty associate of the Robert Bosch Centre for Data Science and Artificial Intelligence at IIT Madras.
 
 
-
+ -->

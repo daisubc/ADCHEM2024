@@ -1,0 +1,11 @@
+{% assign sponsors = site.data.sponsors %}
+
+<div class="row mb-5 mt-5">
+  {% for s in sponsors %}
+  <div class="col-sm-2">
+    <div class="mt-2 mb-2">
+      <a href="{{ s.link }}" target="_blank"><img src="./assets/img/sponsors/{{ s.img }}" alt="{{ s.name }}" style="width:100%"></a>
+    </div>
+  </div>
+  {% endfor %}
+</div>

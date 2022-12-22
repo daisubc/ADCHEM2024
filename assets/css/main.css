@@ -13,7 +13,7 @@ html {
 body {
   font-family: 'Montserrat', 'Times New Roman', serif;
   font-size: 1.125rem;
-  color: #404040;
+  color: #253788;
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
   {% if site.page-img %}
@@ -122,8 +122,14 @@ img::-moz-selection {
   background: transparent;
 }
 
+.main-img {
+  height: 400px;
+}
+
 .main-img img{
+  height: 100%;
   width: 100%;
+  object-fit: cover;
 }
 
 img {

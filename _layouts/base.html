@@ -22,19 +22,19 @@ common-js:
 <!DOCTYPE html>
 <html lang="{{ page.language | default: site.language | default: 'en' }}">
   <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2020 -->
-  {% include head.html %}
+  {% include /_includes/head.html %}
 
   <body>
 
-    {% include gtm_body.html %}
+    {% include /_includes/gtm_body.html %}
   
-    {% include nav.html %}
+    {% include /_includes/nav.html %}
 
     {{ content }}
 
-    {% include footer.html %}
+    {% include /_includes/footer.html %}
   
-    {% include footer-scripts.html %}
+    {% include /_includes/footer-scripts.html %}
   
   </body>
 </html>

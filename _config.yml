@@ -1,26 +1,22 @@
-# --- Basic options --- #
-
-# Name of website
-title: AdCONIP 2022
-
-# Short description of your site
-description: "The 7th International Symposium on Advanced Control of Industrial Processes"
-
-# Your name to show in the footer
-author: AdCONIP 2022
-
-# --- List of links in the navigation bar --- #
+title: ADCHEM 2024
+description: "The 12th IFAC Symposium on Advanced Control of Chemical Processes (ADCHEM 2024)"
+author: ADCHEM 2024 Organizing Committee
 
 navbar-links:
-  Overview: "./index.html#overview"
+  ADCHEM 2024: "./index.html#overview"
   Schedule: "/schedule/"
   # Important Dates: "./index.html#important-dates"
   Call for Papers: "/papers/"
   Workshops: "/workshops/"
   Speakers: "/speakers/"
-  Organizers: "/organizers/"
+  # Organizers: "/organizers/"
   Contact: "/contact/"
   ⧉ Registration: "http://controls.papercept.net/registration/"
+
+collections:
+  pages:
+    output: true
+    permalink: /:title
 
 # --- Logo --- #
 
@@ -33,8 +29,9 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/sponsors/ifac.jpg"
 
+includes_dir: .
 
 # --- Footer options --- #
 
@@ -83,13 +80,13 @@ excerpt_length: 50
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#FEFEFE"
-navbar-text-col: "#00458B"
+navbar-text-col: "#253788"
 navbar-border-col: "#FFFFFF"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#FEFEFE"
-footer-text-col: "#00458B"
+footer-text-col: "#253788"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images

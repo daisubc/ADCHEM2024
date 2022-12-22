@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Plenary Speakers
-subtitle: AdCONIP 2022 Plenary Speakers
+subtitle: ADCHEM 2024 Plenary Speakers
 show-avatar: False
 ---
 
-#### Navigation: [Plenary Speakers]({% link speakers.md %}) | [Keynote Speakers]({% link keynote_speakers.md %})
+TBD
 
----
-
+<!-- 
 # Plenary Speaker - Prof. Sarah Spurgeon
 <img class="speaker-img" src="{{ "/assets/img/spurgeon.jpg" | relative_url }}">
 [**Sarah Spurgeon OBE, FREng, FIEEE, FIET**](https://www.ucl.ac.uk/electronic-electrical-engineering/people/prof-sarah-spurgeon) is Professor of Control Engineering and Head of the Department of Electronic and Electrical Engineering at University College London. Her research interests are in the area of systems modelling and analysis, robust control and estimation in which areas she has published over 270 refereed research papers. She was awarded the Honeywell International Medal for ‘distinguished contribution as a control and measurement technologist to developing the theory of control’ in 2010 and an IEEE Millenium Medal in 2000. She is currently Vice President Publications of the International Federation of Automatic Control (IFAC), an elected member of the Board of Governors of the IEEE Control Systems Society and a member of the General Assembly of the European Control Association. Within the UK she is currently a Vice President of the IET and is a past President of the Engineering Professor Council, the representative body for engineering in higher education.

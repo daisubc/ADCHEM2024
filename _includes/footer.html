@@ -2,35 +2,20 @@
   <div class="container-md beautiful-jekyll-footer">
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
-      {% include social-networks-links.html %}
-      {% if page.footer-extra %}
-        <div class="footer-custom-content">
-          {% include {{ page.footer-extra }} %}
-        </div>
-      {% endif %}
+      
+      <p class="mt-2 mb-3 text-center">
+        <a href="https://www.ifac-control.org" target="_blank"><img class="p-1" src="/assets/img/sponsors/ifac.jpg" width="100px"></a> <img class="p-1" src="/assets/img/sponsors/adchem2024.png" width="100px">
+      </p>
+
       <p class="copyright text-muted">
-      {% if site.author %}
-        {{ site.author }}
-        &nbsp;&bull;&nbsp;
-      {% endif %}
-      {{ site.time | date: '%Y' }}
-
-      {% if site.url-pretty %}
-        &nbsp;&bull;&nbsp;
-        <a href="{{ '' | absolute_url }}">{{ site.url-pretty }}</a>
-      {% endif %}
-
-      {% if site.matomo %}
-        {% if site.matomo.opt-out %}
-          &nbsp;&bull;&nbsp;
-          <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
-        {% endif %}
-      {% endif%}
+        All Rights Reserved. Website maintained by the ADCHEM 2024 Organizing Committee.
+      </p>
+      <p>
+        <small>Anyone interested in Control Engineering may become an <a href="https://www.ifac-control.org/about/participation" target="_blank"><b>IFAC Affliate.</b></a> IFAC Affiliates receive the IFAC Newsletter free of charge. The Newsletter contains information about IFAC technical meetings as well as about other matters of interest to the control community. IFAC Affiliates will also receive Calls for Papers for technical meetings in their selected areas of interest and are entitled to a special rate for subscriptions to the IFAC Journals. On-line registration as an Affiliate is possible from the IFAC homepage.</small>
       </p>
       <!-- Please don't remove this, keep my open source work credited :) -->
-      <p class="theme-by text-muted">
-        Theme by
-        <a href="https://beautifuljekyll.com">beautiful-jekyll</a>
+      <p class="theme-by small text-muted mt-5">
+        Open-source theme modified from <a href="https://beautifuljekyll.com">beautiful-jekyll</a>
       </p>
       </div>
     </div>

@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Contact
-subtitle: AdCONIP 2022 Support
+subtitle: Conference Information and Support
 show-avatar: False
 ---
 
-### Conference Help
+<!-- ### Conference Help
 
 For questions and support during the conference, please join the official [AdCONIP 2022 WhatsApp group](https://chat.whatsapp.com/Fp9IlvcrlER6avuCR5sWsw).
 
@@ -13,8 +13,8 @@ For questions and support during the conference, please join the official [AdCON
   <a class="btn btn-warning btn-lg" target="_blank" href="https://chat.whatsapp.com/Fp9IlvcrlER6avuCR5sWsw" role="button">Join WhatsApp Group</a>
 </div>
 
-![/assets/img/whatsapp.jpeg](/assets/img/whatsapp.jpeg){:style="display:block; margin-left:auto; margin-right:auto; width: 300px"}
+![/assets/img/whatsapp.jpeg](/assets/img/whatsapp.jpeg){:style="display:block; margin-left:auto; margin-right:auto; width: 300px"} -->
 
 ### Organizers
 
-{% include contacts.html %}
+{% include /_info/contacts.html %}

@@ -1,5 +1,3 @@
-# AdCONIP 2022
+# ADCHEM 2024
 
-The 7th International Symposium on Advanced Control of Industrial Processes (AdCONIP 2022) will be held at The Nest, UBC Vancouver, BC, Canada on August 7-9, 2022
-
-Website based on the [Beautiful Jekyll template](https://beautifuljekyll.com)
+The International Federation of Automatic Control (IFAC) is pleased to announce the 12th IFAC Symposium on Advanced Control of Chemical Processes (ADCHEM 2024) that will be held in Toronto, July 14-17, 2024. The International Program Committee is preparing an exciting scientific program that explores recent advances in the control of chemical, biochemical and related process systems. Both academic and industrial control engineering practitioners will have the opportunity to present their work and exchange research ideas with colleagues from across the globe.

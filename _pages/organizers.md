@@ -1,16 +1,15 @@
 ---
 layout: page
 title: Organizers
-subtitle: ADCONIP 2022 Organizing Committee
+subtitle: ADCHEM 2024 Organizing Committee
 show-avatar: False
 ---
  
-## National Organizing Committee
+## Organizing Committee
 
-{% include contacts.html %}
+{% include /_info/contacts.html %}
 
----
-
+<!-- 
 ## International Program Committee
 
 - Jie Bao, **Chair**, University of New South Wales, Sydney, Australia
@@ -84,3 +83,4 @@ show-avatar: False
 | Zijiang Shao          | CHN |
 | Zoltan Nagy           | USA |
 | Zukui Li              | CA  |
+ -->
