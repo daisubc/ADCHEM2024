@@ -38,10 +38,10 @@ includes_dir: .
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
-social-network-links:
-  email: "bhushan.gopaluni@ubc.ca"
-  github: daisubc/adconip2022
-  rss: false
+# social-network-links:
+#   email: "bhushan.gopaluni@ubc.ca"
+#   github: daisubc/adconip2022
+#   rss: false
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
