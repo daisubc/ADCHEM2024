@@ -28,13 +28,28 @@ The ADCHEM Symposium is held every 3 years, with the most recent taking place in
 
 Main topics for the symposium include, but are not limited to, the following:
 
-  {% capture topics_table %}
+- Batch Processes
+- Model-based Control
+- Big Data Analytics and Monitoring 
+- Modeling and Identification
+- Energy Processes
+- Scheduling and Optimization
+- Industrial Applications
+
+
+<!-- Batch Processes                   
+Model-based Control
+Big Data Analytics and Monitoring | Modeling and Identification
+Energy Processes                  | Scheduling and Optimization
+Industrial Applications           | -->
+
+<!--   {% capture topics_table %}
     {% include _info/topics.html %}
   {% endcapture %}
 
 <div class="table-wrapper">
   {{ topics_table | markdownify }}
-</div>
+</div> -->
 
 ---
 
