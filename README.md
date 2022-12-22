@@ -26,6 +26,9 @@ These page snippets help us re-use the same content across multiple locations in
 
 Find and modify the Markdown file in the `_pages` folder. You may also see snippets from other pages.
 
+### Updating the navigation bar
+Edit the `navbar-links` in the `_config.yml` file.
+
 ### Updating announcements
 
 1. Add your announcements in `_data/announcements.yml`
