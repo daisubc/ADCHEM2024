@@ -13,10 +13,10 @@ Don’t miss this unique opportunity to show off your products, technology, and 
 
 <div class="row mb-5 mt-5">
   {% for s in sponsors %}
-  <div class="col-sm-2">
-    <div class="mt-2 mb-2">
-      <a href="{{ s.link }}" target="_blank"><img src="./assets/img/sponsors/{{ s.img }}" alt="{{ s.name }}" style="width:100%"></a>
-    </div>
+  <div class="col-xs-3">
+    <a href="{{ s.link }}" target="_blank">
+      <img class="img-sponsor mt-2 p-2" src="./assets/img/sponsors/{{ s.img }}" alt="{{ s.name }}">
+    </a>
   </div>
   {% endfor %}
 </div>

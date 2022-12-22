@@ -132,6 +132,15 @@ img::-moz-selection {
   object-fit: cover;
 }
 
+.table-wrapper{
+  overflow-x: scroll;
+  width: 100%;
+}
+
+.img-sponsor {
+  max-width: 150px;
+}
+
 img {
   max-width: 100%;
 }
