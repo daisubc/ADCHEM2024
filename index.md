@@ -75,10 +75,6 @@ Symposium details and dates:
 
 {% include /_info/accomodations.html %}
 
-# Sponsors
-
-{% include /_info/sponsors.html %}
-
 # Contact
 
 For questions and help during the conference, please see the [contact](./contact) page.
