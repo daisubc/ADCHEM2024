@@ -67,10 +67,6 @@ Symposium details and dates:
 
 {% include /_info/registration.html %}
 
-# Events
-
-{% include /_info/events.html %}
-
 # Accomodations
 
 {% include /_info/accomodations.html %}
