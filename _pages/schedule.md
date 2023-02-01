@@ -4,7 +4,7 @@ title: ADCHEM 2024 Schedule
 show-avatar: False
 ---
 
-The program is expected to follow the usual format for this Symposium series, including plenary and keynote presentations, contributed presentations, panel discussions, and poster sessions. Special topics workshops are also planned for Sunday July 14.
+The program is expected to follow the usual format for this Symposium series, including plenary and keynote presentations, contributed presentations, panel discussions, and poster sessions. Special topics workshops are also planned for Sunday July 14. A provisional schedule is as follows: 
 
 |                             | **AM**                                    | **PM**                                                | **Evening**        |
 |-----------------------------|-------------------------------------------|-------------------------------------------------------|--------------------|
