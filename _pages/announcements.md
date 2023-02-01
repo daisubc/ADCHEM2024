@@ -9,18 +9,20 @@ show-avatar: False
 
 <ul class="list-group">
   {% for a in announcements %}
-    <li class="list-group-item d-flex">
-      <p>
-      <small>{{ a.date | date_to_long_string: "ordinal", "US" }}</small>
-      <br>
-      {% if a.link %}
-        <b><a href="{{ a.link }}">{{ a.title }}</a></b>
-      {% else %}
-        <b>{{ a.title }}</b>
-      {% endif %}
-      <br>
-      {{ a.text }}
-      </p>
-    </li>
+    {% if a.display == true %}
+      <li class="list-group-item d-flex">
+        <p>
+        <small>{{ a.date | date_to_long_string: "ordinal", "US" }}</small>
+        <br>
+        {% if a.link %}
+          <b><a href="{{ a.link }}">{{ a.title }}</a></b>
+        {% else %}
+          <b>{{ a.title }}</b>
+        {% endif %}
+        <br>
+        {{ a.text }}
+        </p>
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>

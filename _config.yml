@@ -6,7 +6,7 @@ url: https://dais.chbe.ubc.ca
 baseurl: /ADCHEM2024 # remove unless using subdomain in github pages
 
 navbar-links:
-  Sponsors: "/Sponsors"
+  Sponsors: "/sponsors"
   Announcements: "/announcements"
   Schedule: "/schedule"
   # Important Dates: "./index.html#important-dates"
