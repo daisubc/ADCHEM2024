@@ -22,7 +22,7 @@ show-avatar: False
   <a class="btn btn-warning btn-lg" href="{% link _pages/schedule.md %}" role="button">See Schedule</a>
 </div> -->
 
-The International Federation of Automatic Control (IFAC) is pleased to announce the 12th IFAC Symposium on Advanced Control of Chemical Processes (ADCHEM 2024) that will be held in Toronto, July 14-17, 2024. The International Program Committee is preparing an exciting scientific program that explores recent advances in the control of chemical, biochemical and related process systems. Both academic and industrial control engineering practitioners will have the opportunity to present their work and exchange research ideas with colleagues from across the globe.
+The International Federation of Automatic Control (IFAC) is pleased to announce the 12th IFAC Symposium on Advanced Control of Chemical Processes (ADCHEM 2024) that will be held in Toronto, July 14-17, 2024. The International Program Committee is preparing an exciting scientific program that explores recent advances in the control of chemical, biochemical and related process systems. Both academic and industrial control engineers will have the opportunity to present their work and exchange research ideas with colleagues from across the globe.
 
 The ADCHEM Symposium is held every 3 years, with the most recent taking place in Venice (2021), Shenyang (2018), and Whistler (2015), with a typical attendance of approximately 250 attendees.
 
