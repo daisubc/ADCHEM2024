@@ -23,7 +23,7 @@ show-avatar: False
 - Ms. Sophie Felleiter, Queen’s University
 
 ## International Program Committee
-- Prof. Dr.-Ing. Martin Monnigmann, Rhur-Universitat Bochum
+- Prof. Martin Martin Mönnigmann, Ruhr University Bochum
 - Prof. Ali Mesbah, University of California Berkeley
 - Dr. Pablo Rolandi, Amgen
 
