@@ -28,12 +28,12 @@ show-avatar: False
 - Dr. Pablo Rolandi, Amgen
 
 ## Area Co-Chairs
-- [Soroush Masoud](https://drexel.edu/engineering/about/faculty-staff/S/soroush-masoud/). (USA) - Manufacturing Processes
-- Boris Houska (China) - Model-Based Control
-- Jin Wang (USA) - Big Data Analytics and Process Monitoring
-- Miroslav Fikar (Slovakia) - Modeling and Identification
-- Mehmet Mercangöz (UK) - Energy, Water and Sustainability
-- Gabriela Henning (Argentina) - Scheduling and Optimization
+- [Soroush Masoud](https://drexel.edu/engineering/about/faculty-staff/S/soroush-masoud/) (USA) - Manufacturing Processes
+- [Boris Houska](https://faculty.sist.shanghaitech.edu.cn/faculty/boris/) (China) - Model-Based Control
+- [Jin Wang](https://www.eng.auburn.edu/directory/jzw0001) (USA) - Big Data Analytics and Process Monitoring
+- [Miroslav Fikar](https://www.uiam.sk/~fikar/?lang=en) (Slovakia) - Modeling and Identification
+- [Mehmet Mercangöz](https://www.imperial.ac.uk/people/m.mercangoz) (UK) - Energy, Water and Sustainability
+- [Gabriela Henning](https://servicios.intec.santafe-conicet.gov.ar/personal/ghenning/) (Argentina) - Scheduling and Optimization
 
 
 <!-- 
