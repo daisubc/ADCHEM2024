@@ -28,7 +28,7 @@ show-avatar: False
 - Dr. Pablo Rolandi, Amgen
 
 ## Area Co-Chairs
-- Soroush Masoud (./https://drexel.edu/engineering/about/faculty-staff/S/soroush-masoud/) (USA) - Manufacturing Processes
+- Soroush Masoud (https://drexel.edu/engineering/about/faculty-staff/S/soroush-masoud/) (USA) - Manufacturing Processes
 - Boris Houska (China) - Model-Based Control
 - Jin Wang (USA) - Big Data Analytics and Process Monitoring
 - Miroslav Fikar (Slovakia) - Modeling and Identification
