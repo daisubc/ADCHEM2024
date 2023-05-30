@@ -27,6 +27,15 @@ show-avatar: False
 - Prof. Ali Mesbah, University of California Berkeley
 - Dr. Pablo Rolandi, Amgen
 
+## Area Co-Chairs
+- Soroush Masoud (USA)          Manufacturing Processes
+- Boris Houska (China)          Model-Based Control
+- Jin Wang (USA)                Big Data Analytics and Process Monitoring
+- Miroslav Fikar (Slovakia)     Modeling and Identification
+- Mehmet Mercangöz (UK)         Energy, Water and Sustainability
+- Gabriela Henning (Argentina)  Scheduling and Optimization
+
+
 <!-- 
 ## International Program Committee
 
