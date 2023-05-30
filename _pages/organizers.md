@@ -15,7 +15,7 @@ show-avatar: False
 - Dr. Danielle Zyngier, Ingram Micro
 - Prof. Simant Upreti, Toronto Metropolitan University
 - Prof. Luis Ricardez-Sandoval, University of Waterloo
-- Prof. Biao Huang, University of Alverta
+- Prof. Biao Huang, University of Alberta
 - Prof. Vinay Prasad, University of Alberta
 - Prof. Bhushan Gopaluni, University of British Columbia
 - Prof. Carl Duchesne, Laval University
