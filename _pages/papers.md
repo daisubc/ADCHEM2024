@@ -7,14 +7,19 @@ show-avatar: False
 
 # Call for Papers
 
-The International Program Committee (IPC) invites authors to submit papers in English to the conference. The submission site and detailed instructions is expected to open June 2023. 
+The International Program Committee (IPC) invites authors to submit papers in English to the conference. The submission site will open in July 2023. 
 
-Proposals and papers for invited sessions are especially welcome. They should contain the title of the session, a list of at least 5 speakers and titles of their papers, together with papers completed according to the above instructions. Please address requests and questions to the organizers.
 
-## Manuscript Requirements
-All papers and invited session proposals must be written in English and submitted through [PaperCept](https://controls.papercept.net/conferences/scripts/start.pl).
+## Manuscript Requirements and Submission Categories
+All papers and invited session proposals must be written in English and submitted through [PaperCept](https://ifac.papercept.net/conferences/scripts/start.pl).
 
-Regular papers must be between 4 (minimum) and 6 (maximum) pages in the final version. Check the conference site for special rules that may apply. PDF files will be limited to 2 MB in size. See IFAC full [Author Guide](https://www.ifac-control.org/conferences/authors-guide).
+**Regular Papers:** 6 pages, up to 8 with extra page charge. 
+
+**Invited Sessions Proposals:** Proposals must describe a research topic and include titles, authors and abstracts of 6 papers by authors who agreed to submit an invited session paper on this topic. Proposers will be invited to chair the session if it is accepted. 
+
+**Invited Session Papers:** 6 pages, up to 8 pages with extra page charge. Submission requires a code provided by the organizers of the invited session. 
+
+**Industrial Extended Abstracts:** 2-6 pages, first and corresponding author(s) must be from industry. Industrial Extended Abstracts will not be published in the proceedings.
 
 
 {% include /_info/important_dates.html %}
