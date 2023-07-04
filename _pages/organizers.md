@@ -28,7 +28,7 @@ show-avatar: False
 - Pablo Rolandi, Amgen
 
 ## Area Co-Chairs
-- [Soroush Masoud](https://drexel.edu/engineering/about/faculty-staff/S/soroush-masoud/) (USA) - Manufacturing Processes
+- [Masoud Soroush](https://drexel.edu/engineering/about/faculty-staff/S/soroush-masoud/) (USA) - Manufacturing Processes
 - [Boris Houska](https://faculty.sist.shanghaitech.edu.cn/faculty/boris/) (China) - Model-Based Control
 - [Jin Wang](https://www.eng.auburn.edu/directory/jzw0001) (USA) - Big Data Analytics and Process Monitoring
 - [Miroslav Fikar](https://www.uiam.sk/~fikar/?lang=en) (Slovakia) - Modeling and Identification
