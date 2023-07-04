@@ -9,6 +9,10 @@ show-avatar: False
 
 The International Program Committee (IPC) invites authors to submit papers in English to the conference. The submission site will open in July 2023. 
 
+<div class="text-center">
+  <a class="btn btn-warning btn-lg" href="./assets/docs/ADCHEM Sponsor Package - March 1.pdf" role="button">Download Call for Papers</a>
+</div>
+
 
 ## Manuscript Requirements and Submission Categories
 All papers and invited session proposals must be written in English and submitted through [PaperCept](https://ifac.papercept.net/conferences/scripts/start.pl).
