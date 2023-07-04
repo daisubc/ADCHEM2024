@@ -10,22 +10,22 @@ show-avatar: False
 {% include /_info/contacts.html %}
 
 ## Organizing Committee
-- Prof. Christopher Swartz, McMaster University
-- Prof. Kimberley McAuley, Queen’s University
-- Dr. Danielle Zyngier, Ingram Micro
-- Prof. Simant Upreti, Toronto Metropolitan University
-- Prof. Luis Ricardez-Sandoval, University of Waterloo
-- Prof. Biao Huang, University of Alberta
-- Prof. Vinay Prasad, University of Alberta
-- Prof. Bhushan Gopaluni, University of British Columbia
-- Prof. Carl Duchesne, Laval University
-- Prof. Syed Imtiaz, Memorial University
-- Ms. Sophie Felleiter, Queen’s University
+- Christopher Swartz, McMaster University
+- Kimberley McAuley, Queen’s University
+- Danielle Zyngier, Ingram Micro
+- Simant Upreti, Toronto Metropolitan University
+- Luis Ricardez-Sandoval, University of Waterloo
+- Biao Huang, University of Alberta
+- Vinay Prasad, University of Alberta
+- Bhushan Gopaluni, University of British Columbia
+- Carl Duchesne, Laval University
+- Syed Imtiaz, Memorial University
+- Sophie Felleiter, Queen’s University
 
 ## International Program Committee
-- Prof. Martin Martin Mönnigmann, Ruhr University Bochum
-- Prof. Ali Mesbah, University of California Berkeley
-- Dr. Pablo Rolandi, Amgen
+- Martin Martin Mönnigmann, Ruhr University Bochum
+- Ali Mesbah, University of California Berkeley
+- Pablo Rolandi, Amgen
 
 ## Area Co-Chairs
 - [Soroush Masoud](https://drexel.edu/engineering/about/faculty-staff/S/soroush-masoud/) (USA) - Manufacturing Processes
