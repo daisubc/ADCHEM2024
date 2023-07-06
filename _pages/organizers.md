@@ -5,27 +5,25 @@ subtitle: ADCHEM 2024 Organizing Committee
 show-avatar: False
 ---
  
-## Organizers
+## National Organizing Committee (NOC)
 
 {% include /_info/contacts.html %}
 
-## Organizing Committee
-- Christopher Swartz, McMaster University
-- Kimberley McAuley, Queen’s University
-- Danielle Zyngier, Ingram Micro
-- Simant Upreti, Toronto Metropolitan University
-- Luis Ricardez-Sandoval, University of Waterloo
-- Biao Huang, University of Alberta
-- Vinay Prasad, University of Alberta
-- Bhushan Gopaluni, University of British Columbia
+## NOC Members 
 - Carl Duchesne, Laval University
-- Syed Imtiaz, Memorial University
 - Sophie Felleiter, Queen’s University
+- Bhushan Gopaluni, University of British Columbia
+- Biao Huang, University of Alberta
+- Syed Imtiaz, Memorial University
+- Vinay Prasad, University of Alberta
+- Luis Ricardez-Sandoval, University of Waterloo
+- Simant Upreti, Toronto Metropolitan University
 
-## International Program Committee
-- Martin Martin Mönnigmann, Ruhr University Bochum
-- Ali Mesbah, University of California Berkeley
-- Pablo Rolandi, Amgen
+## International Program Committee (IPC)
+- **IPC Chair**, Martin Mönnigmann <martin.moennigmann@rub.de>
+- **IPC Co-Chair**, Ali Mesbah <mesbah@berkeley.edu>
+- **IPC VC Industry**, Pablo Rolandi <prolandi@amgen.com>
+- **Ediotor**, Martin Mönnigmann <martin.moennigmann@rub.de>
 
 ## Area Co-Chairs
 - [Masoud Soroush](https://drexel.edu/engineering/about/faculty-staff/S/soroush-masoud/) (USA) - Manufacturing Processes
@@ -35,6 +33,7 @@ show-avatar: False
 - [Mehmet Mercangöz](https://www.imperial.ac.uk/people/m.mercangoz) (UK) - Energy, Water and Sustainability
 - [Gabriela Henning](https://servicios.intec.santafe-conicet.gov.ar/personal/ghenning/) (Argentina) - Scheduling and Optimization
 
+## IPC Members
 
 <!-- 
 ## International Program Committee
