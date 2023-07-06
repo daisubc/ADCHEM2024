@@ -5,3 +5,27 @@
 - name: ADCHEM 2024
   img: adchem2024.png
   link: https://www.adchem2024.org
+
+- name: McMaster University
+  img: McMaster.png
+  link: https://www.mcmaster.ca/
+
+- name: Queen's University
+  img: queens.jpg
+  link: https://www.queensu.ca/
+
+- name: Toronto Metropolitan University
+  img: TMU.jpg
+  link: https://www.torontomu.ca/
+
+- name: Memorial University of Newfoundland
+  img: Memorial.png
+  link: https://www.mun.ca/
+
+- name: University of Alberta
+  img: Alberta.png
+  link: https://www.ualberta.ca/index.html
+
+- name: University of Waterloo
+  img: Waterloo.png
+  link: https://uwaterloo.ca/
