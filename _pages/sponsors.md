@@ -10,22 +10,6 @@ show-avatar: False
 <img class="speaker-img" src="{{ "/assets/img/sponsors/McMaster.png" | relative_url }}">
 [**McMaster University**](https://www.mcmaster.ca/)
 
-<div class="text-center">
-<h2>Model-assisted Analysis and Design of Electrochemical Processes</h2>
-<b>Professor Ulrike Krewer Dr.-Ing.</b>
-<br>
-<i>ulrike krewer@kit edu</i>
-<br>
-Institute for Applied Materials - Electrochemical Technologies (IAM-ET), Karlsruhe Institute of Technology, Germany
-</div>
-
-<div class="text-center">
-<h2>Silver Sponsors<h2>
-</div>
-
-<img class="speaker-img" src="{{ "/assets/img/sponsors/McMaster.png" | relative_url }}">
-[**McMaster University**](https://www.mcmaster.ca/)
-
 <img class="speaker-img" src="{{ "/assets/img/sponsors/queens.jpg" | relative_url }}">
 [**Queen's University**](https://www.queensu.ca/)
 
