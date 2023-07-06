@@ -9,10 +9,8 @@ show-avatar: False
 # Silver Sponsors
 <img class="speaker-img" src="{{ "/assets/img/sponsors/McMaster.png" | relative_url }}">
 [**McMaster University**](https://www.mcmaster.ca/)
-
 <img class="speaker-img" src="{{ "/assets/img/sponsors/queens.jpg" | relative_url }}">
 [**Queen's University**](https://www.queensu.ca/)
-
 <img class="speaker-img" src="{{ "/assets/img/sponsors/TMU.jpg" | relative_url }}">
 [**Toronto Metropolitan University**](https://www.torontomu.ca/)
 
