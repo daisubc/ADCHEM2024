@@ -26,7 +26,7 @@ This talk covers established and upcoming electrochemical energy and power-to-ch
 
 
 # Plenary Speaker - Prof. Gabriele Pannocchia
-<img class="speaker-img" src="{{ "/assets/img/jay.jpeg" | relative_url }}">
+<img class="speaker-img" src="{{ "/assets/img/gp_2016.jpg" | relative_url }}">
 [**Gabriele Pannocchia**](https://people.unipi.it/gabriele_pannocchia/) received a Ph.D. in Chemical Engineering from the University of Pisa (Italy) in 2002, where he has been a Full Professor since 2020. Since 2022, Dr. Pannocchia has been Head of the School of Engineering of the University of Pisa.
 He held a Visiting Associate position at the University of Wisconsin - Madison (WI, USA) in 2000/2001 and in 2008. Dr. Pannocchia is the author of about 150 papers in international journals, book chapters, and proceedings of international conferences.
 Dr. Pannocchia is Senior Editor for the Journal of Process Control, served as Associate Editor of Automatica, and is Chair of the IFAC TC 2.4 (Optimal Control). Dr. Pannocchia was IPC co-chair of the IFAC Symposium DYCOPS 2013 held in Mumbai (India), Area Co-Chair/Associate Editor in IFAC DYCOPS 2016, IFAC World Congress 2017, IFAC NMPC 2018, UK Control 2018, IFAC World Congress 2020.
