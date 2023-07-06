@@ -8,7 +8,7 @@ show-avatar: False
 
 
 # Plenary Speaker - Prof. Ulrike Krewer
-<img class="speaker-img" src="{{ "/assets/img/spurgeon.jpg" | relative_url }}">
+<img class="speaker-img" src="{{ "/assets/img/Krewer Ulrike.jpg" | relative_url }}">
 [**Ulrike Krewer Dr.-Ing.**](https://www.iam.kit.edu/et/english/mitarbeiter_5189.php) is a Full Professor and Head of the Institute for Applied Materials – Electrochemical Technologies at Karlsruhe Institute of Technology (KIT), Germany. She received a PhD in Process Engineering from University/Max Planck Institute Magdeburg. After researching in Samsung (Korea) and an Assistant Professorship, she became Full Professor for Energy and Process Systems Engineering at TU Braunschweig in 2012, and moved to her current position KIT in 2020. With more than 20 years of research expertise in electrochemical energy technologies, she and her team contribute(d) to advancing established technologies, such as Li-ion batteries and PEM electrolysis, as well as exploratory ones such as Li/Na-metal batteries and CO2 electrolysis. Model-based and dynamic analysis of processes at electrodes allows her to reveal performance limiting steps and the (degradation) state of cells and electrodes, and to propose improvements. 
 
 <div class="text-center">
