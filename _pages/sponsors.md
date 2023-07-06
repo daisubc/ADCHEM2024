@@ -3,6 +3,9 @@ layout: page
 title: "Sponsors"
 show-avatar: False
 ---
+
+{% include /_info/sponsors.html %}
+
 <div class="text-center">
 <h2>Silver Sponsors<h2>
 </div>
@@ -32,4 +35,4 @@ show-avatar: False
 
 
 
-{% include /_info/sponsors.html %}
+
