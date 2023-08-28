@@ -55,8 +55,8 @@ Several examples of process control systems are presented as case studies to str
 We conclude the lecture by sketching future research directions and open problems.
 
 # Plenary Speaker - Dr. Leo Chiang
-<img class="speaker-img" src="{{ "/assets/img/gp_2016.jpg" | relative_url }}">
-[**Leo Chiang**] Leo Chiang is Senior R&D Digital Fellow at Dow Core R&D. He has a broad research interest in emerging AI and Data Science approaches and his grand vision is to lead the industry to achieve AI at scale.  Leo is on a mission to improve data acumen for workforce at all levels at Dow; he co-developed data science training program and championed many programs and activities to foster cross functional collaboration.  Leo is proactive in working with universities to support data science education in chemical engineering and the broader STEM community.
+<img class="speaker-img" src="{{ "/assets/img/Leo Chiang.jpg" | relative_url }}">
+[**Leo Chiang**] is Senior R&D Digital Fellow at Dow Core R&D. He has a broad research interest in emerging AI and Data Science approaches and his grand vision is to lead the industry to achieve AI at scale.  Leo is on a mission to improve data acumen for workforce at all levels at Dow; he co-developed data science training program and championed many programs and activities to foster cross functional collaboration.  Leo is proactive in working with universities to support data science education in chemical engineering and the broader STEM community.
  
 Leo has a B.S. degree from University of Wisconsin at Madison and M.S. and Ph.D. degrees from the University of Illinois at Urbana-Champaign, all in Chemical Engineering. Leo has co-authored 2 books, over 60 externally refereed journal/proceedings papers and has given over 140 conference presentations and university lectures.  
  
