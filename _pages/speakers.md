@@ -54,6 +54,27 @@ In the second part, we focus attention on so-called economic MPC formulations, i
 Several examples of process control systems are presented as case studies to strengthen the main founding concepts and the recommended design practices.
 We conclude the lecture by sketching future research directions and open problems.
 
+# Plenary Speaker - Dr. Leo Chiang
+<img class="speaker-img" src="{{ "/assets/img/gp_2016.jpg" | relative_url }}">
+[**Leo Chiang**] Leo Chiang is Senior R&D Digital Fellow at Dow Core R&D. He has a broad research interest in emerging AI and Data Science approaches and his grand vision is to lead the industry to achieve AI at scale.  Leo is on a mission to improve data acumen for workforce at all levels at Dow; he co-developed data science training program and championed many programs and activities to foster cross functional collaboration.  Leo is proactive in working with universities to support data science education in chemical engineering and the broader STEM community.
+ 
+Leo has a B.S. degree from University of Wisconsin at Madison and M.S. and Ph.D. degrees from the University of Illinois at Urbana-Champaign, all in Chemical Engineering. Leo has co-authored 2 books, over 60 externally refereed journal/proceedings papers and has given over 140 conference presentations and university lectures.  
+ 
+Leo is a Fellow of American Institute of Chemical Engineers (AIChE) and has served as 2014-2016 Computing and Systems Technology (CAST) director, 2016 CAST 10E programming chair, 2017-2018 spring meeting program chair (MPC), and 2019-2022 Executive Board of the Program Committee (EBPC). Leo was instrumental in setting up the Big Data Analytics Topical Conference (2015 to 2017) and Industry 4.0 Topical Conference (2018-2020) at the spring meeting.  He was recognized by the AIChE with the 2016 Herbert Epstein Award for his programming leadership and 2016 Computing Practice Award for his world-class leadership in the development and application of methodologies in analytics for batch and continuous processes known as Big Data.  
+ 
+Leo is also active in the broader engineering and control community, he was elected to the National Academy of Engineering (NAE) in 2023 and recognized by American Automatic Control Council with the 2020 Control Engineering Practice Award.  Leo currently serves as Computer Aids for Chemical Engineering (CACHE) trustee and 2023 Foundations of Process/Product Analytics and Machine learning (FOPAM) meeting program co-chair.
+
+
+<div class="text-center">
+<h2>Advances and Opportunities of AI in Process Industries</h2>
+<b>Dr. Leo Chiang</b>
+<br>
+Research and Development, Dow, United States
+</div>
+
+**Abstract:** To enhance safety, reliability, and productivity of industrial processes and to accelerate materials discovery, artificial intelligence (AI) and machine learning techniques have been widely used in process industries for many decades.  In the current Industry 4.0 and digital era, AI propels advancement in a wide range of applications including image analytics, Natural language process (NLP), deep learning, reinforcement learning, hybrid modeling, and real-time analytics.  
+ 
+As more AI successes are demonstrated in process industries, there is a growing misconception that AI is to replace human decision.  The talk will highlight the importance of Responsible/Trustworthy AI and show industrial examples on how humans and AI must be working in the loop.  One aspect is to understand how to incorporate AI methods to assist humans to accelerate discovery in research and to make well-informed decisions in manufacturing operations.  The other aspect is to allow humans to incorporate engineering and science domain knowledge to make AI methods smarter.  This talk will conclude by highlighting future research direction, workforce development need, and how academia, vendors, and industries must collaborate to unlock more value with AI. 
 
 
 <!-- 
