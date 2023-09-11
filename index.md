@@ -66,6 +66,11 @@ Symposium details and dates:
 
 {% include /_info/registration.html %}
 
+# IFAC Foundation Support for Young Authors from Developing Countries
+
+The IFAC Foundation is providing funding to the IFAC ADCHEM 2024 Symposium to waive the registration fees of a number of young authors from developing countries. For further detail see the [Developing Countries - Young Author Support](./young_author) page.   
+
+
 # Accomodations
 
 {% include /_info/accomodations.html %}
