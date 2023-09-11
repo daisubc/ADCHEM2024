@@ -13,7 +13,7 @@ A person is eligible for support if they meet all of the following criteria:
 • The person must be younger than 30 years during the Symposium.
 
 • The person must be a citizen of a developing country/region not affiliated to or supported by an institution in a high-income country/region. A developing country/region is understood to be one which is not on the attached list of high-income economies.
- <a class="btn btn-warning btn-lg" href="./assets/docs/List of high-income economies.pdf" role="button">Application Form</a>
+ <a class="btn btn-warning btn-lg" href="./assets/docs/List of high-income economies.pdf" role="button">List of high-income economies</a>
 </div>
 
 
