@@ -31,7 +31,8 @@ A person is eligible for support if they meet all of the following criteria:
 ## Important Dates
 
 Deadline for Applications: November 15th, 2023
-Applicants Notifies: March 7th, 2024
+
+Applicants Notified: March 7th, 2024
 
 ## Instructions 
 Complete the application form, and send it (by November 15, 2023), with proof of citizenship (i.e. copy of passport), to <sf60@queensu.ca>
