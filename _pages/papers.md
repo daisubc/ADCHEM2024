@@ -7,7 +7,7 @@ show-avatar: False
 
 # Call for Papers
 
-The International Program Committee (IPC) invites authors to submit papers in English to the conference. The submission site will open in July 2023. 
+The International Program Committee (IPC) invites authors to submit papers in English to the conference. The submission site is now open. 
 
 <div class="text-center">
   <a class="btn btn-warning btn-lg" href="./assets/docs/Call-for-Papers-2023-07-01.pdf" role="button">Download Call for Papers</a>
