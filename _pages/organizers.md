@@ -56,7 +56,7 @@ show-avatar: False
 | Juergen Hahn          | USA     |
 | Katalin Hangos        | HU      |
 | Iiro Harjunkoski      | FI      |
-| Yue Hong              | UK      |
+| Hong Yue              | UK      |
 | Morten Hovd           | NO      |
 | Elcin Icter-Gencer    | USA     |
 | Marianthi Ierapetritou| USA     |
