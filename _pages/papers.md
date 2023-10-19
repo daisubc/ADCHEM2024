@@ -10,7 +10,7 @@ show-avatar: False
 The International Program Committee (IPC) invites authors to submit papers in English to the conference. The submission site is now open. 
 
 <div class="text-center">
-  <a class="btn btn-warning btn-lg" href="./assets/docs/2nd-Call-for-Papers.pdf" role="button">Download Call for Papers</a>
+  <a class="btn btn-warning btn-lg" href="./assets/docs/03-Call-for-Papers-Extended-Deadlines-2023-10-16.pdf" role="button">Download Call for Papers</a>
 </div>
 
 
