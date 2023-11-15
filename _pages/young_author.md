@@ -38,7 +38,7 @@ Deadline for Applications: November 15th, 2023
 Applicants Notified: March 7th, 2024
 
 ## Instructions 
-Complete the application form, and send it (by November 15, 2023), with proof of citizenship (i.e. copy of passport), to <sf60@queensu.ca>
+Complete the application form, and send it (by December 8, 2023), with proof of citizenship (i.e. copy of passport), to <sf60@queensu.ca>
 
 <div class="text-center">
   <a class="btn btn-warning btn-lg" href="./assets/docs/DC-YAS ADCHEM 24 Application Form.pdf" role="button">Application Form</a>
