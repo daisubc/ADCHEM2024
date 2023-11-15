@@ -33,7 +33,7 @@ A person is eligible for support if they meet all of the following criteria:
 
 ## Important Dates
 
-Deadline for Applications: November 15th, 2023
+Deadline for Applications: December 8, 2023
 
 Applicants Notified: March 7th, 2024
 
