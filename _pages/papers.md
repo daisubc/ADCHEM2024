@@ -27,6 +27,8 @@ All papers and invited session proposals must be written in English and submitte
 
 **Pre-Conference Workshop Proposals:** We are accepting proposals for pre-conference workshops on topics related to modeling, estimation, optimization, and control of process systems. The workshop proposals must provide a detailed description of the workshop objectives, target audience, and tentative schedule. Workshop organizers are strongly encouraged to form a diverse session along dimensions such as gender, geography, industry/academia affiliation, and other forms of diversity.
 
+Two paper submissions are allowed per full registration, and one per student registration.
+
 {% include /_info/important_dates.html %}
 
 ## Registration Fees
