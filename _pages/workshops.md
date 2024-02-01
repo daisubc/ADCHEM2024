@@ -6,10 +6,10 @@ show-avatar: False
 
 # Half-day Workshops 
 
-# Data Science Practitioner Experience and Industrial Tips and Tricks of the Trade 
-## Presenter(s): Leo Chiang, Ivan Castillo, Zhenyu Wang, and You Peng, The Dow Chemical Company
+## Data Science Practitioner Experience and Industrial Tips and Tricks of the Trade 
+### Presenter(s): Leo Chiang, Ivan Castillo, Zhenyu Wang, and You Peng, The Dow Chemical Company
 
-## Overview
+### Overview
 This half-day workshop aims to educate attendees on real-world experience in developing and implementing data science models to solve industry-relevant problems.  Specifically, we will dive into practical data science workflow from visualization, data preprocessing, model development to implementation and then summarize best practices on how to frame business opportunity as analytics problem to deliver value. After that, we will highlight several industry case studies to illustrate these concepts.  To wrap up, we will discuss some common misconceptions on data science and share future outlooks related to generative AI & the use of Large Language Models (LLMs) in industry. 
 
 The target audience needs to have basic understanding and implementation experience of common data science methods.  However, deep data science domain knowledge and programming proficiency is not needed.  As such, we welcome industrial practitioners, academic researchers and students.
