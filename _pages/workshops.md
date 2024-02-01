@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Workshops
-subtitle: Pre-conference workshops
 show-avatar: False
 ---
 
