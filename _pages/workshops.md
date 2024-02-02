@@ -4,6 +4,8 @@ title: Workshops
 show-avatar: False
 --- 
 
+Several pre-conference workshops are planned for Sunday, July 14.  They span a range of topics relevant to chemical plant operations and beyond, and are described below.
+
 ## Data Science Practitioner Experience and Industrial Tips and Tricks of the Trade (Half-day) 
 ### Organizers and Presenter(s): Leo Chiang, Ivan Castillo, Zhenyu Wang, and You Peng, The Dow Chemical Company
 
