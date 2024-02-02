@@ -40,10 +40,13 @@ show-avatar: False
 </div>
 
 
-## Optimal Operation and Advanced Control using Decomposition and Simple Elements (Full-day) 
+## End-to-end process monitoring techniques and case studies: Hands-on workshop (Full-day) 
 ### Presenter: Lidia Auret (StoneThree)
 
 **Overview**: Practical process monitoring in industry requires fault detection, identification, diagnosis, and the implementation of process recovery actions. Algorithmic design and automation of all these steps are required if the future promise of more autonomous plants is to be realised. However, theoretical research in process monitoring is overwhelmingly focused on the task of fault detection. End-to-end process monitoring (Auret and Louw, 2023a) encompasses the fully automated workflow from detection to implementation of the appropriate corrective action in a process. This workshop will discuss and demonstrate a framework for improved experimentation of end-to-end process monitoring approaches. 
+<div class="text-center">
+  <a class="btn btn-warning btn-lg" href="./assets/docs/Workshop 5.pdf" role="button">More Info</a>
+</div>
 
 ## Optimal Control in Julia with JuMP and InfiniteOpt (Full-day) 
 ### Presenter: Joshua Pulsipher (University of Waterloo)
