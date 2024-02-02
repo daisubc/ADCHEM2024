@@ -8,37 +8,37 @@ show-avatar: False
 ### Organizers and Presenter(s): Leo Chiang, Ivan Castillo, Zhenyu Wang, and You Peng, The Dow Chemical Company
 
 **Overview**: This half-day workshop aims to educate attendees on real-world experience in developing and implementing data science models to solve industry-relevant problems.  Specifically, we will dive into practical data science workflow from visualization, data preprocessing, model development to implementation and then summarize best practices on how to frame business opportunity as analytics problem to deliver value. After that, we will highlight several industry case studies to illustrate these concepts.  To wrap up, we will discuss some common misconceptions on data science and share future outlooks related to generative AI & the use of Large Language Models (LLMs) in industry. The target audience needs to have basic understanding and implementation experience of common data science methods. However, deep data science domain knowledge and programming proficiency is not needed. As such, we welcome industrial practitioners, academic researchers and students.
-
 <div class="text-center">
   <a class="btn btn-warning btn-lg" href="./assets/docs/Workshop 1.pdf" role="button">More Info</a>
 </div>
+
 
 ## Application of Machine Learning in Accelerating MPC for Chemical Processes (Half-day) 
 ### Organizers and Presenter(s): Martin Klaučo, Patrik Valábek (Slovak University of Technology) 
 
 **Overview**: The aim of this workshop is to provide hands-on experience for applications of machine learning tools in connection with control theory. Specifically, we introduce several possibilities as to how the MPC can be accelerated. We will provide a general overview and introduction to machine learning case studies suggesting suitable architectures and data preparation. Next, the workshop will introduce traditional MPC-mimicking procedures to generate approximate explicit control laws and procedures to general controllers posed as neural networks with stability guarantees. Case studies and examples will be tailored to chemical processes and problems arising in this domain. The workshop is primarily intended for graduate students and early-stage researchers and, as well as for all community members interested in hands-on applications of machine learning tools in process control. Furthermore, the workshop will be organized in interactive mode; hence, participants will gain experience in experiment preparation and coding examples.
-
 <div class="text-center">
   <a class="btn btn-warning btn-lg" href="./assets/docs/Workshop 2.pdf" role="button">More Info</a>
 </div>
+
 
 ## Intelligent Alarm Management Techniques and Applications (Half-day) 
 ### Organizers and Presenter(s): Wenkai Hu (China University of Geosciences), Jiandong Wang (Shandong University of Science and Technology), Fan Yang (Tsinghua University), Tongwen Chen (University of Alberta), Sirish L. Shah (University of Alberta), Masaru Noda (Fukuoka University), Kevin Brown (mCloud, Canada)
 
 **Overview**: In the dynamic landscape of complex industrial facilities, effective alarm management is paramount to ensuring operational efficiency, safety, and overall system reliability. However, in real industries, alarm systems usually suffer from degraded performance due to alarm overloading and the presence of alarm floods. Thus, there is a strong need to develop and deploy intelligent alarm management tools, so as to improve the alarm system performance and reduce operators’ workload. This workshop is meticulously crafted to address the unique challenges posed by the intricacies of modern industrial alarm systems. The workshop's primary objective is to empower industry professionals with the data analytic tools to navigate the complexities of alarm monitoring, ensuring not only compliance with industrial standards but also enhancing operational efficiency.
-
 <div class="text-center">
   <a class="btn btn-warning btn-lg" href="./assets/docs/Workshop 3.pdf" role="button">More Info</a>
 </div>
+
 
 ## Optimal Operation and Advanced Control using Decomposition and Simple Elements (Full-day) 
 ### Organizers and Presenter(s): Sigurd Skogestad (Professor, NTNU, Norway) and Krister Forsman (Control Specialist, Perstorp Co., Sweden) 
 
 **Overview**: How can you control a complex plant effectively using simple elements with a minimal amount of modelling? How can you put optimization into the control layer? Industry has been using simple and effective as “advanced regulatory control” schemes for almost 100 years. The objective of the workshop is to provide a systematic approach for designing such control systems. The approach is illustrated on numerous real industrial applications. The target audience includes both practicing control engineers as well as PhD students and teachers from academia.
-
 <div class="text-center">
   <a class="btn btn-warning btn-lg" href="./assets/docs/Workshop 4.pdf" role="button">More Info</a>
 </div>
+
 
 ## Optimal Operation and Advanced Control using Decomposition and Simple Elements (Full-day) 
 ### Presenter: Lidia Auret (StoneThree)
@@ -49,7 +49,6 @@ show-avatar: False
 ### Presenter: Joshua Pulsipher (University of Waterloo)
 
 **Overview**: This workshop will be an interactive tutorial on how to model complex nonlinear, continuous-time optimal control problems via InfiniteOpt.jl and JuMP.jl. Leveraging a unifying abstraction for infinite-dimensional optimization (InfiniteOpt) problems, InfiniteOpt.jl is a Julia-based open-source software package that builds upon JuMP.jl to provide an intuitive symbolic modeling environment for many problem classes in dynamic, PDE-constrained, and stochastic optimization. Moreover, its extensibility allows researchers to make their cutting-edge techniques accessible to a wide audience of individuals. All these aspects make InfiniteOpt.jl a powerful tool for tackling advanced optimal control problems. This workshop is intended for researchers (both academic and industrial) and practitioners interested in solving optimal control problems. The workshop will be accessible for those with limited experience modeling optimization problems in Julia and will feature a collection of interactive Jupyter worksheets to actively engage those attending. Researchers with an advanced knowledge of JuMP.jl will also benefit from learning how to use InfiniteOpt.jl to deploy their research methods.
-
 <div class="text-center">
   <a class="btn btn-warning btn-lg" href="./assets/docs/Workshop 6.pdf" role="button">More Info</a>
 </div>
