@@ -11,7 +11,7 @@ Please note that all prices below also appear in American dollars (USD) for refe
 |Conference Registration Fees                                                                             |
 |-----------------------|---------------------------------------|---------------------------------------- |
 | **Registration Type** | **Early bird (until April 30, 2024)** | **Regular rate (after April 30, 2024)** |
-| Full Registration     | $1,060 CAD ($785 USD)                 | $1,115 CAD ($860 USD)                   |
+| Full Registration     | $1,060 CAD ($785 USD)                 | $1,115 CAD ($835 USD)                   |
 | Student Registration* | $610 CAD ($450 USD)                   | $650 CAD ($485 USD)                     |
 
 |Half-day Workshop Registration                                                                           |
@@ -31,10 +31,15 @@ Please note that all prices below also appear in American dollars (USD) for refe
 
 ### Registration Fees Include:
 •	Access to the Welcome Reception (confirmation of attendance requested in the registration form)
+
 •	Access to all scientific sessions
+
 •	Access to poster area
+
 •	One (1) electronic certificate of attendance
+
 •	Lunch and coffee/tea breaks for duration of the symposium
+
 •	One (1) banquet ticket
 
 Banquet tickets for guests may be purchased separately in the registration form.
