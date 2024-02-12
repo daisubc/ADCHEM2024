@@ -8,21 +8,21 @@ Online registration is open. The early bird rate is in effect until April 30, 20
 Please note that all prices below also appear in American dollars (USD) for reference only (approximate conversion valid as of February 9, 2024). All transactions will be made in Canadian dollars (CAD).
  
 
-Conference Registration                                                                                  
+### Conference Registration                                                                                  
 
 | **Registration Type** | **Early bird (until April 30, 2024)** | **Regular rate (after April 30, 2024)** |
 | Full Registration     | $1,060 CAD ($785 USD)                 | $1,115 CAD ($835 USD)                   |
 | Student Registration* | $610 CAD ($450 USD)                   | $650 CAD ($485 USD)                     |
 
 
-Half-day Workshop                                                                                        
+### Half-day Workshop                                                                                        
 
 | **Registration Type** | **Early bird (until April 30, 2024)** | **Regular rate (after April 30, 2024)** |
 | Full Registration     | $190 CAD ($140 USD)                   | $210 CAD ($155 USD)                     |
 | Student Registration* | $115 CAD ($85 USD)                    | $135 CAD ($100 USD)                     |
 
 
-Full-day Workshop                                                                                        
+### Full-day Workshop                                                                                        
 
 | **Registration Type** | **Early bird (until April 30, 2024)** | **Regular rate (after April 30, 2024)** |
 | Full Registration     | $220 ($165 USD)                       | $240 CAD ($180 USD)                     |
@@ -30,6 +30,9 @@ Full-day Workshop
                                                                                   
 *Please note that postdocs are not eligible to the student rate. If you have questions regarding the registration policy, please contact the conference secretariat.
 
+<div class="text-center">
+  <a class="btn btn-warning btn-lg" href="./assets/docs/03-Call-for-Papers-Extended-Deadlines-2023-10-16.pdf" role="button">Register Here</a>
+</div>
 
 ### Registration Fees Include:
 - Access to the Welcome Reception (confirmation of attendance requested in the registration form)
@@ -40,11 +43,6 @@ Full-day Workshop
 - One (1) banquet ticket
 
 Banquet tickets for guests may be purchased separately in the registration form.
-
-<div class="text-center">
-  <a class="btn btn-warning btn-lg" href="./assets/docs/03-Call-for-Papers-Extended-Deadlines-2023-10-16.pdf" role="button">Register Here</a>
-</div>
-
 
 <div class="text-center">
   <a class="btn btn-warning btn-lg" href="./assets/docs/Visa_eTA_information.pdf" role="button">Visa Information</a>
@@ -66,9 +64,7 @@ Quebec, Quebec
 G1V 0B9 
  
 By Credit Card
-We accept Visa, MasterCard, Union Pay and American Express.
-
-<img class="speaker-img" src="{{ "/assets/img/credit cards.png" | relative_url }}">
+We accept Visa, MasterCard, Union Pay and American Express. <src="{{ "/assets/img/credit cards.png" | relative_url }}">
 
 By Interac Transfer (from a Canadian bank)
 Use the email address <interac@conferium.com> to proceed with the transfer. Next, please make sure to send an email to this email address providing your name, the name of the conference, the amount paid and the recovery code (password).
