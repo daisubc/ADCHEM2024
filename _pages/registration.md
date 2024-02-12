@@ -14,7 +14,7 @@ Please note that all prices below also appear in American dollars (USD) for refe
 | Full Registration     | $1,060 CAD ($785 USD)                 | $1,115 CAD ($860 USD)                   |
 | Student Registration* | $610 CAD ($450 USD)                   | $650 CAD ($485 USD)                     |
 |Half-day Workshop Fees                                                                                   |
-|-----------------------|---------------------------------------|----------------------------------------|
+|-----------------------|---------------------------------------|---------------------------------------- |
 | **Registration Type** | **Early bird (until April 30, 2024)** | **Regular rate (after April 30, 2024)** |
 | Full Registration     | $190 CAD ($140 USD)                   | $210 CAD ($155 USD)                     |
 | Student Registration* | $115 CAD ($85 USD)                    | $135 CAD ($100 USD)                     |
