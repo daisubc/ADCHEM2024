@@ -6,12 +6,12 @@ url: https://www.adchem2024.org/
 baseurl: / # remove unless using subdomain in github pages
 
 navbar-links:
+  Registration: "/registration"
   Sponsors: "/sponsors"
   Announcements: "/announcements"
   Schedule: "/schedule"
   # Important Dates: "./index.html#important-dates"
   Call for Papers: "/papers"
-  Registration: "/registration"
   Workshops: "/workshops"
   Speakers: "/speakers"
   Support: "/young_author"
