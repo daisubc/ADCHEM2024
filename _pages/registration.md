@@ -31,7 +31,7 @@ Please note that all prices below also appear in American dollars (USD) for refe
 *Please note that postdocs are not eligible to the student rate. If you have questions regarding the registration policy, please contact the conference secretariat.
 
 <div class="text-center">
-  <a class="btn btn-warning btn-lg" href="./assets/docs/03-Call-for-Papers-Extended-Deadlines-2023-10-16.pdf" role="button">Register Here</a>
+  <a class="btn btn-warning btn-lg" href="https://www.conferium.com/convPages/conv_248.lasso?registration=true&lang=en" role="button">Register Here</a>
 </div>
 
 ### Registration Fees Include:
@@ -54,7 +54,7 @@ During registration, you will be asked to provide the paper number(s) of your ac
 ### Payment Methods
 Payment of registration fees (in Canadian dollars) can be made as follows:
 
-*By Canadian cheque*
+**By Canadian cheque**
 Please make your cheque to Conferium in trust:
 
 ADCHEM 2024  
@@ -63,10 +63,10 @@ C/O Conferium
 Quebec, Quebec 
 G1V 0B9 
  
-*By Credit Card*
+**By Credit Card**
 We accept Visa, MasterCard, Union Pay and American Express.
 
-*By Interac Transfer (from a Canadian bank)*
+**By Interac Transfer (from a Canadian bank)**
 Use the email address <interac@conferium.com> to proceed with the transfer. Next, please make sure to send an email to this email address providing your name, the name of the conference, the amount paid and the recovery code (password).
 
 Registration will only be valid upon receipt of the full payment by Conferium according to the deadline dates. You will receive an e-mail confirmation following receipt of the payment. Bank charges are the responsibility of the participant and should be paid at source in addition to the registration fees.
