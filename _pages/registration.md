@@ -32,17 +32,12 @@ Please note that all prices below also appear in American dollars (USD) for refe
 
 
 ### Registration Fees Include:
-•	Access to the Welcome Reception (confirmation of attendance requested in the registration form)
-
-•	Access to all scientific sessions
-
-•	Access to poster area
-
-•	One (1) electronic certificate of attendance
-
-•	Lunch and coffee/tea breaks for duration of the symposium
-
-•	One (1) banquet ticket
+- Access to the Welcome Reception (confirmation of attendance requested in the registration form)
+- Access to all scientific sessions
+- Access to poster area 
+- One (1) electronic certificate of attendance
+- Lunch and coffee/tea breaks for duration of the sympsoium
+- One (1) banquet ticket
 
 Banquet tickets for guests may be purchased separately in the registration form.
 
@@ -76,7 +71,7 @@ We accept Visa, MasterCard, Union Pay and American Express.
 <img class="speaker-img" src="{{ "/assets/img/credit cards.png" | relative_url }}">
 
 By Interac Transfer (from a Canadian bank)
-Use the email address interac@conferium.com to proceed with the transfer. Next, please make sure to send an email to this email address providing your name, the name of the conference, the amount paid and the recovery code (password).
+Use the email address <interac@conferium.com> to proceed with the transfer. Next, please make sure to send an email to this email address providing your name, the name of the conference, the amount paid and the recovery code (password).
 
 Registration will only be valid upon receipt of the full payment by Conferium according to the deadline dates. You will receive an e-mail confirmation following receipt of the payment. Bank charges are the responsibility of the participant and should be paid at source in addition to the registration fees.
 
