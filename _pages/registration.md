@@ -47,7 +47,11 @@ Please note that all prices below also appear in American dollars (USD) for refe
 Banquet tickets for guests may be purchased separately in the registration form.
 
 <div class="text-center">
-  <a class="btn btn-warning btn-lg" href="./assets/docs/03-Call-for-Papers-Extended-Deadlines-2023-10-16.pdf" role="button">Register here</a>
+  <a class="btn btn-warning btn-lg" href="./assets/docs/03-Call-for-Papers-Extended-Deadlines-2023-10-16.pdf" role="button">Register Here</a>
+</div>
+
+<div class="text-center">
+  <a class="btn btn-warning btn-lg" href="./assets/docs/Visa_eTA_information.pdf" role="button">Visa Information</a>
 </div>
 
 **Note for authors of accepted papers**
