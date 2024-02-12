@@ -11,6 +11,7 @@ navbar-links:
   Schedule: "/schedule"
   # Important Dates: "./index.html#important-dates"
   Call for Papers: "/papers"
+  Registration: "/registration"
   Workshops: "/workshops"
   Speakers: "/speakers"
   Support: "/young_author"
