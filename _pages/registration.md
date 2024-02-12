@@ -8,21 +8,21 @@ Online registration is open. The early bird rate is in effect until April 30, 20
 Please note that all prices below also appear in American dollars (USD) for reference only (approximate conversion valid as of February 9, 2024). All transactions will be made in Canadian dollars (CAD).
  
 
-|Conference Registration Fees                                                                             |
+|Conference Registration                                                                                  |
 |-----------------------|---------------------------------------|---------------------------------------- |
 | **Registration Type** | **Early bird (until April 30, 2024)** | **Regular rate (after April 30, 2024)** |
 | Full Registration     | $1,060 CAD ($785 USD)                 | $1,115 CAD ($835 USD)                   |
 | Student Registration* | $610 CAD ($450 USD)                   | $650 CAD ($485 USD)                     |
 
 
-|Half-day Workshop Registration                                                                           |
+|Half-day Workshop                                                                                        |
 |-----------------------|---------------------------------------|---------------------------------------- |
 | **Registration Type** | **Early bird (until April 30, 2024)** | **Regular rate (after April 30, 2024)** |
 | Full Registration     | $190 CAD ($140 USD)                   | $210 CAD ($155 USD)                     |
 | Student Registration* | $115 CAD ($85 USD)                    | $135 CAD ($100 USD)                     |
 
 
-|Full-day Workshop Registration                                                                           |
+|Full-day Workshop                                                                                        |
 |-----------------------|---------------------------------------|---------------------------------------- |
 | **Registration Type** | **Early bird (until April 30, 2024)** | **Regular rate (after April 30, 2024)** |
 | Full Registration     | $220 ($165 USD)                       | $240 CAD ($180 USD)                     |
@@ -53,7 +53,7 @@ Banquet tickets for guests may be purchased separately in the registration form.
 **Note for authors of accepted papers**
 During registration, you will be asked to provide the paper number(s) of your accepted paper(s). When the payment of your registration is received by the conference secretariat, they will generate a code that will allow you to make your final submission in the IFAC paper management website. To allow time for this process, please fill in the registration form and pay your registration at least 2 business days before the final paper submission deadline. 
 
-##Payment Methods##
+### Payment Methods
 Payment of registration fees (in Canadian dollars) can be made as follows:
 
 By Canadian cheque
@@ -73,7 +73,7 @@ Use the email address interac@conferium.com to proceed with the transfer. Next, 
 
 Registration will only be valid upon receipt of the full payment by Conferium according to the deadline dates. You will receive an e-mail confirmation following receipt of the payment. Bank charges are the responsibility of the participant and should be paid at source in addition to the registration fees.
 
-##Refund Policy##
+### Refund Policy
 A refund of registration fees will be made to any registered participant who cancels on or before June 1st, 2024 less a $75 CAD administration fee.
 
 Cancellation requests received after June 1st, 2024 and before July 1st will be subject to a $75 CAD administrative charge and a surcharge of 25%.
@@ -82,7 +82,7 @@ Exception to the above applying only to authors of accepted abstracts: Should a 
 
 No refund will be made if cancellation requests are received after July 1st, 2024. Substitutions will be accepted at any time as long as the eventual additional amount in registration fees is paid.    
 
-For more information, please contact the Conference Secretariat <adchem2024@conferium.com>
+For more information, please contact the Conference Secretariat: <adchem2024@conferium.com>
 
 
 
