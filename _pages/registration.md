@@ -50,6 +50,7 @@ Banquet tickets for guests may be purchased separately in the registration form.
   <a class="btn btn-warning btn-lg" href="./assets/docs/03-Call-for-Papers-Extended-Deadlines-2023-10-16.pdf" role="button">Register Here</a>
 </div>
 
+
 <div class="text-center">
   <a class="btn btn-warning btn-lg" href="./assets/docs/Visa_eTA_information.pdf" role="button">Visa Information</a>
 </div>
@@ -71,6 +72,8 @@ G1V 0B9
  
 By Credit Card
 We accept Visa, MasterCard, Union Pay and American Express.
+
+<img class="speaker-img" src="{{ "/assets/img/credit cards.png" | relative_url }}">
 
 By Interac Transfer (from a Canadian bank)
 Use the email address interac@conferium.com to proceed with the transfer. Next, please make sure to send an email to this email address providing your name, the name of the conference, the amount paid and the recovery code (password).
