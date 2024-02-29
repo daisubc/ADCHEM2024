@@ -76,7 +76,7 @@ A refund of registration fees will be made to any registered participant who can
 
 Cancellation requests received after June 1st, 2024 and before July 1st will be subject to a $75 CAD administrative charge and a surcharge of 25%.
 
-Exception to the above applying only to authors of accepted abstracts: Should a travel visa not be granted by July 1st, despite an early application (by March 1st), the surcharge for a registration cancellation, as well as the $75 CAD administrative charge, will be waived.
+Exception to the above applying only to authors of accepted abstracts: Should a travel visa not be granted by July 1st, despite an early application (by March 8th), the surcharge for a registration cancellation, as well as the $75 CAD administrative charge, will be waived.
 
 No refund will be made if cancellation requests are received after July 1st, 2024. Substitutions will be accepted at any time as long as the eventual additional amount in registration fees is paid.    
 
