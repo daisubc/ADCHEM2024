@@ -17,11 +17,11 @@ The International Program Committee (IPC) invites authors to submit papers in En
 ## Manuscript Requirements and Submission Categories
 All papers and invited session proposals must be written in English and submitted through [PaperCept](https://ifac.papercept.net/conferences/scripts/start.pl).
 
-**Regular Papers:** 6 pages, up to 8 with extra page charge. 
+**Regular Papers:** 6 pages, up to 8 with extra page charge of 165 CAD (120 USD equivalent) per page. 
 
 **Invited Sessions Proposals:** Proposals must describe a research topic and include titles, authors and abstracts of 6 papers by authors who agreed to submit an invited session paper on this topic. Proposers will be invited to chair the session if it is accepted. 
 
-**Invited Session Papers:** 6 pages, up to 8 pages with extra page charge. Submission requires a code provided by the organizers of the invited session. 
+**Invited Session Papers:** 6 pages, up to 8 pages with extra page charge of 165 CAD (120 USD equivalent) per pag. Submission requires a code provided by the organizers of the invited session. 
 
 **Industrial Extended Abstracts:** 2-6 pages, first and corresponding author(s) must be from industry. Industrial Extended Abstracts will not be published in the proceedings.
 
