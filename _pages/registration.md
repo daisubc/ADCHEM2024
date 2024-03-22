@@ -29,6 +29,7 @@ Please note that all prices below also appear in American dollars (USD) for refe
 | Student Registration* | $145 CAD ($110 USD)                   | $165 CAD ($125 USD)                     |
                                                                                   
 *Please note that postdocs are not eligible to the student rate. If you have questions regarding the registration policy, please contact the conference secretariat.
+**Extra page charge: $165 CAD ($120 USD equivalent) per page beyond 6 pages. May be purchased during registration.
 
 <div class="text-center">
   <a class="btn btn-warning btn-lg" href="https://www.conferium.com/convPages/conv_248.lasso?registration=true&lang=en" role="button">Register Here</a>
