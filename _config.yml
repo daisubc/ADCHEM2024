@@ -9,7 +9,7 @@ navbar-links:
   Registration: "/registration"
   Sponsors: "/sponsors"
   Announcements: "/announcements"
-  Program: "/program"
+  Schedule: "/schedule"
   # Important Dates: "./index.html#important-dates"
   Call for Papers: "/papers"
   Workshops: "/workshops"
