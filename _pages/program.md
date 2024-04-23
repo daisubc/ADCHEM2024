@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ADCHEM 2024 Schedule
+title: ADCHEM 2024 Program
 show-avatar: False
 ---
 
