@@ -9,7 +9,8 @@ A preliminary program is available at the link below, to be updated as additiona
 <div class="text-center">
   <a class="btn btn-warning btn-lg" href="[https://www.conferium.com/convPages/conv_248.lasso?registration=true&lang=en](https://ifac.papercept.net/conferences/conferences/ADCHEM24/program/ADCHEM24_ProgramAtAGlanceWeb.html)" role="button">Full Program</a>
 </div>
-</div>
+
+### Overview 
 
 
 |                             | **AM**                                    | **PM**                                                            | **Evening**        |
