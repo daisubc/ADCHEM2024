@@ -4,14 +4,18 @@ title: ADCHEM 2024 Program
 show-avatar: False
 ---
 
-The program is expected to follow the usual format for this Symposium series, including plenary and keynote presentations, contributed presentations, panel discussions, and poster sessions. Special topics workshops are also planned for Sunday July 14. A provisional schedule is as follows: 
+A preliminary program is available at the link below, to be updated as additional information becomes available.  Please note that the pre-conference workshop on Application of Machine Learning in Accelerating MPC for Chemical Processes, will run in the morning of Sunday July 14, and not the afternoon as indicated.
 
-|                             | **AM**                                    | **PM**                                                | **Evening**        |
-|-----------------------------|-------------------------------------------|-------------------------------------------------------|--------------------|
-| **Sunday**, <br>Jul 14th    |                                           | Workshops                                             | Welcome Reception  |
-| **Monday**, <br>Jul 15th    | Plenary session, Parallel sessions, Lunch | Keynote sessions, Parallel sessions                   |                    |
-| **Tuesday**, <br>Jul 16th   | Plenary session, Parallel sessions, Lunch | Keynote sessions, Parallel sessions                   | Conference Banquet |
-| **Wednesday**, <br>Jul 17th | Plenary session, Parallel sessions, Lunch | Keynote sessions, Parallel sessions, Closing Ceremony |                    |
+<div class="text-center">
+  <a class="btn btn-warning btn-lg" href="[https://www.conferium.com/convPages/conv_248.lasso?registration=true&lang=en](https://ifac.papercept.net/conferences/conferences/ADCHEM24/program/ADCHEM24_ProgramAtAGlanceWeb.html)" role="button">Full Program</a>
+</div>
+
+|                             | **AM**                                    | **PM**                                                            | **Evening**        |
+|-----------------------------|-------------------------------------------|-------------------------------------------------------------------|--------------------|
+| **Sunday**, <br>Jul 14th    | Full day workshops                        | Full day and half day workshops                                   | Welcome Reception  |
+| **Monday**, <br>Jul 15th    | Plenary session, Parallel sessions, Lunch | Keynote sessions, Parellel sessions, Poster session 1, Roundtable |                    |
+| **Tuesday**, <br>Jul 16th   | Plenary session, Parallel sessions, Lunch | Keynote sessions, Parallel sessions, Poster session 2             | Conference Banquet |
+| **Wednesday**, <br>Jul 17th | Plenary session, Parallel sessions, Lunch | Keynote sessions, Parallel sessions, Closing Ceremony             |                    |
 
 
 <!-- 
