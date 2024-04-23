@@ -7,7 +7,7 @@ show-avatar: False
 A preliminary program is available at the link below, to be updated as additional information becomes available.  Please note that the pre-conference workshop on Application of Machine Learning in Accelerating MPC for Chemical Processes, will run in the morning of Sunday July 14, and not the afternoon as indicated.
 
 <div class="text-center">
-  <a class="btn btn-warning btn-lg" href="https://ifac.papercept.net/conferences/conferences/ADCHEM24/program/ADCHEM24_Program" role="button">Full Program</a>
+  <a class="btn btn-warning btn-lg" href="https://ifac.papercept.net/conferences/conferences/ADCHEM24/program/" role="button">Full Program</a>
 </div>
 
 ### Overview 
