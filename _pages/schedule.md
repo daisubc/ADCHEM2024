@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: schedule
 title: ADCHEM 2024 Program
 show-avatar: False
 ---
