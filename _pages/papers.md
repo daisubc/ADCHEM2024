@@ -29,6 +29,8 @@ All papers and invited session proposals must be written in English and submitte
 
 Two paper submissions are allowed per full registration, and one per student registration.
 
+We note that papers for IFAC events are supposed to be no longer than 6 pages, and the possibility to extend to up to 8 pages was announced due to a misunderstanding only. A one-time exception to allow papers with more than 6 pages has been granted by IFAC because this mistake was only spotted after all final submissions had been collected
+
 {% include /_info/important_dates.html %}
 
 ## Registration Fees
