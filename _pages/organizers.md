@@ -45,7 +45,7 @@ show-avatar: False
 | Rahul Bindlish        | USA     |
 | Hector Budman         | CA      |
 | Benoit Chachuat       | UK      |
-| Cesar De Prada        | ES      |
+| Cesar de Prada        | ES      |
 | Denis Dochain         | BE      |
 | Yining Dong           | HK      | 
 | Helen Durand          | USA     |
@@ -64,7 +64,7 @@ show-avatar: False
 | Jamie Moreno          | MX      |
 | Johannes Jäschke      | NO      |
 | John Jorgensen        | DK      |
-| Jay Lee               | KR      |
+| Jay Lee               | USA     |
 | Sergio Lucia          | DE      |
 | Adel Mhamdi           | DE      |
 | Thomas Meurer         | DE      |
