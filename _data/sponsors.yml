@@ -1,3 +1,10 @@
+- name: Yokogawa
+  img: Picture4.png
+  link: https://www.yokogawa.com/
+
+  - name: Sartorius
+  img: Picture5.png
+  link: https://www.sartorius.com/
 
 - name: McMaster University
   img: McMaster.png
@@ -21,4 +28,8 @@
 
 - name: University of Waterloo
   img: Waterloo.png
-  link: https://uwaterloo.ca/
+  link: https://www.uwaterloo.ca/
+
+- name: University of British Columbia 
+  img: Picture6.png
+  link: https://www.ubc.ca/
