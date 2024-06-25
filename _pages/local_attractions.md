@@ -38,7 +38,7 @@ Explore the beauty of Canada in a whole new way! Little Canada takes you on a jo
 
 ### Ripley's Aquarium of Canada
 
-288 Bremner Blvd.
+288 Bremner Blvd.  
 Toronto, ON M5V 3L9  
 Phone: 647-351-3474 
 [Website](https://www.ripleyaquariums.com/canada/)  
@@ -47,8 +47,8 @@ Immerse yourself in a world of 20,000 aquatic animals and discover your own unde
 
 ### stackt
 
-28 Bathurst St., Unit 3107
-Toronto, ON M5V 0R4  
-[Website](https://www.stacktmarket.com)  
+28 Bathurst St., Unit 3107  
+Toronto, ON M5V 0R4   
+[Website](https://www.ripleyaquariums.com/canada/)  
  
 North America’s largest shipping container market. Designed entirely out of shipping containers, the market is an ever-evolving cultural marketplace featuring a mix of shops, a microbrewery, top chefs, killer city views + lots of ongoing community programming.
