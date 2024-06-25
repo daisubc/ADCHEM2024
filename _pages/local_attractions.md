@@ -11,6 +11,12 @@ A few key attractions are listed below. A comprehensive list of things to do in 
 
 **CN Tower**
 
+ADCHEM 2024  
+C/O Conferium  
+2828 Laurier Boulevard, Suite 700 
+Quebec, Quebec 
+G1V 0B9 
+ 
 290 Bremner Blvd
 Toronto, ON M5V 3L9
 Phone: 416-86-TOWER (868-6937)
