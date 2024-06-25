@@ -29,11 +29,11 @@ Toronto's newest centre for arts, culture, food and entertainment. This national
 
 ### Little Canada
 
-10 Dundas St. East
+10 Dundas St. East  
 Toronto, ON M5B 2G9  
 Phone: 416-562-8242 
-[Website](https://www.little-canada.ca)  
- 
+[Website](https://www.little-canada.ca/)  
+  
 Explore the beauty of Canada in a whole new way! Little Canada takes you on a journey of discovery through Canada from the moment you enter. An interactive attraction showcasing Canada’s captivating vistas, landmarks and cityscapes in miniature scale, Little Canada aims to entertain and educate guests every tiny step of the way. From The Rockies to the Maritimes and up to the Arctic North, a new landscape to explore is around the corner – it’s an experience for all ages.
 
 ### Ripley's Aquarium of Canada
