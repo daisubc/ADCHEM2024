@@ -12,9 +12,7 @@ A few key attractions are listed below. A comprehensive list of things to do in 
 **CN Tower**
 
 290 Bremner Blvd
-
 Toronto, ON M5V 3L9
-
 Phone: 416-86-TOWER (868-6937)
 
 [Website](https://www.cntower.ca/)
