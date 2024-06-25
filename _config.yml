@@ -7,7 +7,7 @@ baseurl: / # remove unless using subdomain in github pages
 
 navbar-links:
   Program: "/program"
-  Local Attractions: "/local attractions"
+  Local Attractions: "/local_attractions"
   Registration: "/registration"
   Sponsors: "/sponsors"
   Announcements: "/announcements"
