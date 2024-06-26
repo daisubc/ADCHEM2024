@@ -9,6 +9,7 @@ navbar-links:
   Program: "/program"
   Local Attractions: "/local_attractions"
   Registration: "/registration"
+  Presenter Instructions: "/presenter_instructions"
   Sponsors: "/sponsors"
   Announcements: "/announcements"
   # Schedule: "/schedule"
