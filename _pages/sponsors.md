@@ -42,7 +42,7 @@ In 1957, the [**University of Waterloo**](https://uwaterloo.ca/) opened its door
 
 
 <img class="speaker-img" src="{{ "/assets/img/Memorial.png" | relative_url }}">
-As Newfoundland and Labrador’s only university, [**Memorial**](https://www.mun.ca/) has a special obligation to the people of Newfoundland. Established as a memorial to the Newfoundlanders who lost their lives on active service during the First World War and subsequent conflicts, Memorial University draws inspiration from these sacrifices of the past to help build a better future for the province, country and world. At Memorial more than 19,000 students from over 115 countries come together to discover. A global network of almost 100,000 accomplished alumni throughout the world strengthens Memorial University’s capacity and reputation for leadership in research, teaching and public engagement.
+As Newfoundland and Labrador’s only university, [**Memorial University**](https://www.mun.ca/) has a special obligation to the people of Newfoundland. Established as a memorial to the Newfoundlanders who lost their lives on active service during the First World War and subsequent conflicts, Memorial University draws inspiration from these sacrifices of the past to help build a better future for the province, country and world. At Memorial more than 19,000 students from over 115 countries come together to discover. A global network of almost 100,000 accomplished alumni throughout the world strengthens Memorial University’s capacity and reputation for leadership in research, teaching and public engagement.
 
 
 <img class="speaker-img" src="{{ "/assets/img/Alberta.png" | relative_url }}">
