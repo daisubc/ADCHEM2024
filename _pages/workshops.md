@@ -29,7 +29,7 @@ Several pre-conference workshops are planned for Sunday, July 14.  They span a r
 
 **Overview**: In the dynamic landscape of complex industrial facilities, effective alarm management is paramount to ensuring operational efficiency, safety, and overall system reliability. However, in real industries, alarm systems usually suffer from degraded performance due to alarm overloading and the presence of alarm floods. Thus, there is a strong need to develop and deploy intelligent alarm management tools, so as to improve the alarm system performance and reduce operators’ workload. This workshop is meticulously crafted to address the unique challenges posed by the intricacies of modern industrial alarm systems. The workshop's primary objective is to empower industry professionals with the data analytic tools to navigate the complexities of alarm monitoring, ensuring not only compliance with industrial standards but also enhancing operational efficiency.
 <div class="text-center">
-  <a class="btn btn-warning btn-lg" href="./assets/docs/Workshop 3 (1).pdf" role="button">More Info</a>
+  <a class="btn btn-warning btn-lg" href="./assets/docs/Workshop 3 (2).pdf" role="button">More Info</a>
 </div>
 
 
